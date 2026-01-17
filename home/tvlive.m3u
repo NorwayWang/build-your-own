@@ -323,44 +323,6 @@ http://27.41.245.32:801/hls/906/index.m3u8
 http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
 #EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.13", 中国教育4台
 http://112.254.55.106:22222/rtp/239.253.254.116:8000
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="3.17", CGTN-英语新闻频道
-https://0472.org/hls/cgtn.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="2.95", CGTN-英语新闻频道
-https://0472.org/hls/cgtnd.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.97", CGTN-英语新闻频道
-http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.95", CGTN-英语新闻频道
-https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.74", CGTN-英语新闻频道
-https://0472.org/hls/cgtna.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.74", CGTN-英语新闻频道
-https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.7", CGTN-英语新闻频道
-https://0472.org/hls/cgtnx.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.88", CGTN-西班牙语国际频道
-https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="3.9600000381469727", CGTN-法语国际频道
-https://0472.org/hls/cgtnf.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="2.05", CGTN-法语国际频道
-https://rt-fra.rttv.com/dvr/rtfrance/playlist_4500Kb.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.67", CGTN-法语国际频道
-http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.77", CGTN-俄语国际频道
-https://0472.org/hls/cgtne.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.72", CGTN-俄语国际频道
-http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="3.01", CGTN-纪录国际频道
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv9hd/51/index.m3u8?msisdn=202601171121455ca8e1779ea641768d3b09d52c9afe19&mdspid=&spid=699004&netType=4&sid=5501083624&pid=2028597139&timestamp=20260117112145&Channel_ID=0116_2600001300-99000-201600010012136&ProgramID=673168140&ParentNodeID=-99&assertID=5501083624&client_ip=125.211.195.10&SecurityKey=20260117112145&promotionId=&mvid=5102910384&mcid=500020&playurlVersion=WX-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=338e325a31cd474de330fe36b58b13eb
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="2.95", CGTN-纪录国际频道
-https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="2.82", CGTN-纪录国际频道
-https://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.85", CGTN-纪录国际频道
-https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.74", CGTN-纪录国际频道
-https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.51", CGTN-纪录国际频道
-https://english-livebkali.cgtn.com/live/doccgtn.m3u8
 #EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="3.54", 北京卫视
 http://38.75.136.137:98/gslb/dsdqpub/bjwshd.m3u8?auth=testpub
 #EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="3.4600000381469727", 北京卫视
@@ -793,20 +755,6 @@ http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3
 http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.22", 人间卫视
 http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
-#EXTINF:-1 group-title="江苏" tvg-logo="" download-speed="1.2", 南京新闻综合
-http://nklive.nbs.cn/hls/d511bc9d-a694-4453-b3a2-4fc842cc97a1/index.m3u8
-#EXTINF:-1 group-title="江苏" tvg-logo="" download-speed="1.63", 南京文旅纪录
-http://nklive.nbs.cn/hls/9b2005c4-046c-422f-ba45-e6adc4f4de07/index.m3u8
-#EXTINF:-1 group-title="江苏" tvg-logo="" download-speed="1.19", 南京少儿
-http://nklive.nbs.cn/hls/e0981f3f-1a20-4a59-b8d1-17feb83a4610/index.m3u8
-#EXTINF:-1 group-title="江苏" tvg-logo="" download-speed="1.2", 南京十八生活
-http://nklive.nbs.cn/hls/1173a815-bfdb-4c3c-9f73-89ec37ae7716/index.m3u8
-#EXTINF:-1 group-title="江苏" tvg-logo="" download-speed="1.19", 南京教科
-http://nklive.nbs.cn/hls/75b3c462-b831-4de7-a34b-5d3221db2069/index.m3u8
-#EXTINF:-1 group-title="江苏" tvg-logo="" download-speed="1.55", 江宁新闻频道
-https://jiangning-tv-hls.cm.jstv.com/jiangning-tv/jnxwzh.m3u8
-#EXTINF:-1 group-title="江苏" tvg-logo="" download-speed="1.38", 六合新闻综合
-http://p2hs.vzan.com/720020/432453820030502236/live.m3u8
 #EXTINF:-1 group-title="浙江" tvg-logo="" download-speed="1.56", 浙江新闻
 http://ali-xwl.cztv.com/live/channel07720Plxw.m3u8
 #EXTINF:-1 group-title="浙江" tvg-logo="" download-speed="3.43", 浙江新闻
@@ -883,10 +831,6 @@ http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
 http://php.jdshipin.com/TVOD/iptv.php?id=mzt
 #EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.7100000381469727", TVB功夫
 https://mgev.188766.xyz/?migutoken=22b25fbc6688f6a14ac628767437f56e&id=hk_yzwx&type=dy
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="2.2300000190734863", TVB翡翠台（备用）
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="2.440000057220459", TVB翡翠台 1080P
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 #EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.51", TVBS亚洲
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 #EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.52", TVBS亚洲
@@ -941,9 +885,9 @@ https://mgev.188766.xyz/?migutoken=9563c9a5656d7951ce05a39824a49e5c&id=fhzw&pp=1
 https://mgev.188766.xyz/?migutoken=692a3536ed3720d0520cfc1ec0542a71&id=hk_fhzw&type=dy
 #EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="8.55", 凤凰卫视
 http://122.152.202.33/s/81a8a44f/index.m3u8?id=15
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="3.9000000953674316", 翡翠台4K
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="3.9000000953674316", 翡翠台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4&token=tmxk
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="4.059999942779541", 翡翠台4K
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="4.059999942779541", 翡翠台
 https://mgev.188766.xyz/?migutoken=23e1334df8e99785c8c39021b96823fc&id=hk_fct4k&type=dy
 #EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="2.4600000381469727", 翡翠台
 https://live.catvod.com/iptv.php?id=fct005
@@ -983,15 +927,19 @@ https://mgev.188766.xyz/?migutoken=7d3f93813945bba638a8533a1e18bc6f&id=hk_fct&ty
 http://php.jdshipin.com/TVOD/iptv.php?id=huali2
 #EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.9299999475479126", 翡翠台
 http://mytv.cdn.loc.cc/o12.php?id=fct
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="2.2300000190734863", 翡翠台
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="2.440000057220459", 翡翠台
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 #EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.399999976158142", 「HK」J2
 http://r.jdshipin.com/Nr5jq
 #EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.6299999952316284", 「HK」J2
 http://r.jdshipin.com/ndGgS
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.6699999570846558", 无线娱乐新闻
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.6699999570846558", 无线新闻
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 #EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.4199999570846558", 无线新闻
 https://mgev.188766.xyz/?migutoken=78b9e17d8666809440c35d808c71ffc0&id=hk_wxxw&type=dy
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.2000000476837158", 無線新聞台
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.2000000476837158", 无线新闻
 http://bxtv.3a.ink/api.php?id=wxxw
 #EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.2300000190734863", 明珠台
 https://mgev.188766.xyz/?migutoken=34bb2192b30e5559e579a82cc4051d79&id=hk_mzt&type=dy
@@ -1013,11 +961,11 @@ http://mytv.cdn.loc.cc/o12.php?id=mzt
 https://mgev.188766.xyz/?migutoken=ddbe61ff4fb3388cdf0516fa86667c0d&id=hk_now&type=dy
 #EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.06", 美亚电影台
 http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.1799999475479126", 美亞電影台
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.1799999475479126", 美亚电影台
 http://bxtv.3a.ink/api.php?id=meiya
 #EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.15", 千禧经典台
 http://php.jdshipin.com:8880/smt.php?id=Tvbclassic
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="0.949999988079071", 千禧經典台
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="0.949999988079071", 千禧经典台
 http://bxtv.3a.ink/api.php?id=qxjd
 #EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="2.690000057220459", 「HK」VIU TV
 http://r.jdshipin.com/vSJvl
@@ -1161,56 +1109,6 @@ https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e380
 https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c2e7e767f3144bed959ef20b8b961fe5/850.m3u8
 #EXTINF:-1 group-title="动画频道" tvg-logo="" download-speed="19.2", 反转星球
 https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ccdecc7d6e341c1920ad4eac5d82f38/1200.m3u8
-#EXTINF:-1 group-title="游戏频道" tvg-logo="https://epg-1.iill.top/logo/%E8%99%8E%E7%89%99.png" download-speed="1.3", 「虎牙」永劫无间
-https://live.iill.top/huya/660115
-#EXTINF:-1 group-title="游戏频道" tvg-logo="https://epg-1.iill.top/logo/%E8%99%8E%E7%89%99.png" download-speed="1.12", 「虎牙」英雄联盟 𝟙
-https://live.iill.top/huya/660000
-#EXTINF:-1 group-title="游戏频道" tvg-logo="https://epg-1.iill.top/logo/%E8%99%8E%E7%89%99.png" download-speed="1.16", 「虎牙」无畏契约
-https://live.iill.top/huya/660679
-#EXTINF:-1 group-title="游戏频道" tvg-logo="https://epg-1.iill.top/logo/%E8%99%8E%E7%89%99.png" download-speed="1.19", 「虎牙」王者荣耀 𝟚
-https://live.iill.top/huya/660164
-#EXTINF:-1 group-title="游戏频道" tvg-logo="https://epg-1.iill.top/logo/%E8%99%8E%E7%89%99.png" download-speed="1.09", 「虎牙」王者荣耀 𝟙
-https://live.iill.top/huya/660002
-#EXTINF:-1 group-title="游戏频道" tvg-logo="https://epg-1.iill.top/logo/%E8%99%8E%E7%89%99.png" download-speed="1.84", 「虎牙」金铲铲之战
-https://live.iill.top/huya/660579
-#EXTINF:-1 group-title="游戏频道" tvg-logo="https://epg-1.iill.top/logo/%E8%99%8E%E7%89%99.png" download-speed="0.971", 「虎牙」和平精英
-https://live.iill.top/huya/660006
-#EXTINF:-1 group-title="游戏频道" tvg-logo="https://epg-1.iill.top/logo/%E8%99%8E%E7%89%99.png" download-speed="0.6200000047683716", 「虎牙」第五人格
-https://live.iill.top/huya/idvesports
-#EXTINF:-1 group-title="游戏频道" tvg-logo="https://epg-1.iill.top/logo/%E8%99%8E%E7%89%99.png" download-speed="1.15", 「虎牙」穿越火线•手游
-https://live.iill.top/huya/660102
-#EXTINF:-1 group-title="游戏频道" tvg-logo="https://epg-1.iill.top/logo/%E8%99%8E%E7%89%99.png" download-speed="1.04", 「虎牙」穿越火线
-https://live.iill.top/huya/660101
-#EXTINF:-1 group-title="游戏频道" tvg-logo="https://epg-1.iill.top/logo/%E8%99%8E%E7%89%99.png" download-speed="1.05", 「虎牙」DOTA2
-https://live.iill.top/huya/660118
-#EXTINF:-1 group-title="游戏频道" tvg-logo="https://epg-1.iill.top/logo/%E8%99%8E%E7%89%99.png" download-speed="0.95", 「虎牙」CS 2
-https://live.iill.top/huya/483917
-#EXTINF:-1 group-title="游戏频道" tvg-logo="https://epg-1.iill.top/logo/%E6%96%97%E9%B1%BC.png" download-speed="1.01", 「斗鱼」云顶之弈
-https://live.iill.top/douyu/522423
-#EXTINF:-1 group-title="游戏频道" tvg-logo="https://epg-1.iill.top/logo/%E6%96%97%E9%B1%BC.png" download-speed="1.03", 「斗鱼」王者荣耀 𝟚
-https://live.iill.top/douyu/1984839
-#EXTINF:-1 group-title="游戏频道" tvg-logo="https://epg-1.iill.top/logo/%E6%96%97%E9%B1%BC.png" download-speed="1.15", 「斗鱼」王者荣耀 𝟙
-https://live.iill.top/douyu/1863767
-#EXTINF:-1 group-title="游戏频道" tvg-logo="https://epg-1.iill.top/logo/%E6%96%97%E9%B1%BC.png" download-speed="1.11", 「斗鱼」跑跑卡丁车•手游
-https://live.iill.top/douyu/6672862
-#EXTINF:-1 group-title="游戏频道" tvg-logo="https://epg-1.iill.top/logo/%E6%96%97%E9%B1%BC.png" download-speed="1.19", 「斗鱼」跑跑卡丁车
-https://live.iill.top/douyu/7722576
-#EXTINF:-1 group-title="游戏频道" tvg-logo="https://epg-1.iill.top/logo/%E6%96%97%E9%B1%BC.png" download-speed="0.944", 「斗鱼」金铲铲之战
-https://live.iill.top/douyu/9715241
-#EXTINF:-1 group-title="游戏频道" tvg-logo="" download-speed="4.199999809265137", 「斗鱼」绝地求生
-https://live.iill.top/douyu/100
-#EXTINF:-1 group-title="游戏频道" tvg-logo="https://epg-1.iill.top/logo/%E6%96%97%E9%B1%BC.png" download-speed="1.06", 「斗鱼」火影忍者
-https://live.iill.top/douyu/1997723
-#EXTINF:-1 group-title="游戏频道" tvg-logo="https://epg-1.iill.top/logo/%E6%96%97%E9%B1%BC.png" download-speed="1.36", 「斗鱼」第五人格
-https://live.iill.top/douyu/3226194
-#EXTINF:-1 group-title="游戏频道" tvg-logo="https://epg-1.iill.top/logo/%E6%96%97%E9%B1%BC.png" download-speed="1.05", 「斗鱼」穿越火线 𝟙
-https://live.iill.top/douyu/605964
-#EXTINF:-1 group-title="游戏频道" tvg-logo="https://epg-1.iill.top/logo/%E6%96%97%E9%B1%BC.png" download-speed="1.23", 「斗鱼」QQ飞车•手游
-https://live.iill.top/douyu/5040227
-#EXTINF:-1 group-title="游戏频道" tvg-logo="https://epg-1.iill.top/logo/%E6%96%97%E9%B1%BC.png" download-speed="1.13", 「斗鱼」JJ斗地主
-https://live.iill.top/douyu/488743
-#EXTINF:-1 group-title="游戏频道" tvg-logo="https://epg-1.iill.top/logo/%E6%96%97%E9%B1%BC.png" download-speed="1.01", 「斗鱼」FIFA
-https://live.iill.top/douyu/7692166
 #EXTINF:-1 group-title="解说频道" tvg-logo="" download-speed="2.4200000762939453", 哑巴竟然会说话
 https://yylunbo.ottiptv.cc/yy/1354932427
 #EXTINF:-1 group-title="解说频道" tvg-logo="" download-speed="0.931", 新三国萌儿陪看
@@ -1419,77 +1317,3 @@ https://smart.dxjc.pp.ua/smart.php?id=Kplus&token=tmxk
 https://yylunbo.ottiptv.cc/yy/1356363815
 #EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="1.8600000143051147", 1905电影网
 http://php.jdshipin.com:8880/1905.php?id=1905dy
-#EXTINF:-1 group-title="日本" tvg-logo="" download-speed="2.16", Tokyo MX2
-https://nl.utako.moe/Tokyo_MX2/index.m3u8
-#EXTINF:-1 group-title="日本" tvg-logo="" download-speed="2.78", Tokyo MX1
-https://nl.utako.moe/Tokyo_MX1/index.m3u8
-#EXTINF:-1 group-title="日本" tvg-logo="" download-speed="4.96", TV Tokyo
-https://nl.utako.moe/TV_Tokyo/index.m3u8
-#EXTINF:-1 group-title="日本" tvg-logo="" download-speed="3.93", TBS Channel 2
-https://nl.utako.moe/tbsch2/index.m3u8
-#EXTINF:-1 group-title="日本" tvg-logo="" download-speed="2.41", TBS
-http://143.244.60.30/TBS/index.m3u8
-#EXTINF:-1 group-title="日本" tvg-logo="" download-speed="1.5", TBS
-https://nl.utako.moe/TBS/index.m3u8
-#EXTINF:-1 group-title="日本" tvg-logo="" download-speed="3.1", Shop Channel
-http://stream1.shopch.jp/HLS/out2/prog_index.m3u8
-#EXTINF:-1 group-title="日本" tvg-logo="" download-speed="2.65", QVC Japan
-https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
-#EXTINF:-1 group-title="日本" tvg-logo="" download-speed="1.93", NTV
-https://nl.utako.moe/Nippon_TV/index.m3u8
-#EXTINF:-1 group-title="日本" tvg-logo="" download-speed="4.82", BS TV Tokyo
-https://nl.utako.moe/bstvtokyo/index.m3u8
-#EXTINF:-1 group-title="日本" tvg-logo="" download-speed="1.66", BS TBS
-https://nl.utako.moe/bstbs/index.m3u8
-#EXTINF:-1 group-title="日本" tvg-logo="" download-speed="2.6", BS NTV
-https://nl.utako.moe/bsntv/index.m3u8
-#EXTINF:-1 group-title="韩国" tvg-logo="" download-speed="1.91", 국악방송
-http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
-#EXTINF:-1 group-title="韩国" tvg-logo="" download-speed="1.59", 韩国MBC
-http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
-#EXTINF:-1 group-title="韩国" tvg-logo="" download-speed="3.06", 韩国EBS 儿童频道
-http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
-#EXTINF:-1 group-title="韩国" tvg-logo="" download-speed="3.01", 韩国EBS 少儿频道
-http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
-#EXTINF:-1 group-title="韩国" tvg-logo="" download-speed="3.0", 韩国EBS 第一频道
-http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
-#EXTINF:-1 group-title="韩国" tvg-logo="" download-speed="4.31", TV조선 2
-http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
-#EXTINF:-1 group-title="韩国" tvg-logo="" download-speed="0.991", TV조선
-http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
-#EXTINF:-1 group-title="韩国" tvg-logo="" download-speed="1.15", NBS農業廣播
-https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
-#EXTINF:-1 group-title="韩国" tvg-logo="" download-speed="3.44", MBC-제주
-https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
-#EXTINF:-1 group-title="韩国" tvg-logo="" download-speed="1.18", MBC-여수
-https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
-#EXTINF:-1 group-title="韩国" tvg-logo="" download-speed="3.78", MBC-대구
-https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8
-#EXTINF:-1 group-title="韩国" tvg-logo="" download-speed="1.22", Korea TV
-https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
-#EXTINF:-1 group-title="韩国" tvg-logo="" download-speed="1.46", KBSLiveCamDokDo
-http://kbs-dokdo.gscdn.com/dokdo_300/definst/dokdo_300.stream/playlist.m3u8
-#EXTINF:-1 group-title="韩国" tvg-logo="" download-speed="2.93", EBS第二頻道
-http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
-#EXTINF:-1 group-title="韩国" tvg-logo="" download-speed="3.53", EBS第一頻道
-http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
-#EXTINF:-1 group-title="韩国" tvg-logo="" download-speed="2.97", EBS+ 2
-http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
-#EXTINF:-1 group-title="韩国" tvg-logo="" download-speed="2.78", EBS+ 1
-http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
-#EXTINF:-1 group-title="韩国" tvg-logo="" download-speed="3.13", EBS 키즈
-http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8?zshijd
-#EXTINF:-1 group-title="韩国" tvg-logo="" download-speed="3.02", EBS 2
-http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8?zshijd
-#EXTINF:-1 group-title="韩国" tvg-logo="" download-speed="3.02", EBS 1
-http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8?zshijd
-#EXTINF:-1 group-title="韩国" tvg-logo="" download-speed="1.1", CJB SBS
-http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
-#EXTINF:-1 group-title="韩国" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/ArirangTV.png" download-speed="1.08", Arirang 阿里郎
-https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-#EXTINF:-1 group-title="韩国" tvg-logo="" download-speed="1.2", Arirang 阿里郎
-http://amdlive-ch01.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
-#EXTINF:-1 group-title="韩国" tvg-logo="" download-speed="0.944", Arirang 阿里郎
-https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 group-title="韩国" tvg-logo="" download-speed="0.6299999952316284", Arirang 阿里郎
-https://smart.dxjc.pp.ua/smart.php?id=arirang_twn&token=tmxk
