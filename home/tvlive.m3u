@@ -1,1319 +1,1375 @@
 #EXTM3U
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.65", CCTV-1 综合
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=20260117112902087c66369f12417b840c2d9a02ab3b22&mdspid=&spid=699004&netType=4&sid=2201057821&pid=2028597139&timestamp=20260117112902&Channel_ID=0116_2600001300-99000-201600010012150&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=61.168.118.115&SecurityKey=20260117112902&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=6bf0dfb39d5b726fdda0ee14844dbf34
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.64", CCTV-1 综合
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=2026011711275739063c539a5f42e1b5486bd4916366a2&mdspid=&spid=699004&netType=4&sid=2201057821&pid=2028597139&timestamp=20260117112757&Channel_ID=0116_2600001300-99000-201600010012148&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=61.168.118.50&SecurityKey=20260117112757&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=3cddf3422a83fd2886235d2be4ec9425
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.63", CCTV-1 综合
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=2026011711282734a705c31c904a11af59ba62d07d7add&mdspid=&spid=699004&netType=4&sid=2201057821&pid=2028597139&timestamp=20260117112827&Channel_ID=0116_2600001300-99000-201600010012149&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=61.168.118.130&SecurityKey=20260117112827&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=fafb04acef367fec523c9230a97defd6
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.18", CCTV-1 综合
-http://play.kankanlive.com/live/1698234869325962.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="3.83", CCTV-2 财经
-http://38.75.136.137:98/gslb/dsdqpub/cctv2hd.m3u8?auth=testpub
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="3.4", CCTV-2 财经
-http://38.75.136.137:98/gslb/dsdqca/cctv2hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="3.35", CCTV-2 财经
-http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="2.35", CCTV-2 财经
-http://tvlist.top/jd/index.php?id=cctv2&qt=183.224.122.114:8014
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.91", CCTV-2 财经
-http://23.237.228.134/live5/CCTV2.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.74", CCTV-2 财经
-http://27.41.245.32:801/hls/2/index.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.64", CCTV-2 财经
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv2hd/1500/index.m3u8?msisdn=20260117112553d04dcb83bcfe446b9831aef89876d826&mdspid=&spid=699004&netType=4&sid=5500346945&pid=2028597139&timestamp=20260117112553&Channel_ID=0116_2600001300-99000-201600010012144&ProgramID=631780532&ParentNodeID=-99&assertID=5500346945&client_ip=125.211.195.202&SecurityKey=20260117112553&promotionId=&mvid=5101064231&mcid=500020&playurlVersion=WX-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=9e9b5295d3556a85f4964ca1bae0706b
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.59", CCTV-2 财经
-https://iptv.catvod.com/live.php?id=CCTV2
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.17", CCTV-2 财经
-http://pull-hls-f1.douyincdn.com/media/stream-695106910011261612/playlist.m3u8?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-20260114100308192594C57677D9CCE8DA-vujvxt&wsSecret=5aec4b2fd09a7a40920df80db1862da9&wsTime=6966f95d
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.15", CCTV-2 财经
-http://112.27.235.94:8000/hls/2/index.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.02", CCTV-2 财经
-http://pull-flv-f1.douyincdn.com/media/stream-695106910011261612.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-20260114100308192594C57677D9CCE8DA-vujvxt&unique_id=stream-695106910011261612_684_flv&wsSecret=fc06766784777da294247d06ae30f581&wsTime=6966f95d
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="2.72", CCTV-3 综艺
-http://tvlist.top/jd/index.php?id=cctv3&qt=183.224.122.114:8014
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.49", CCTV-3 综艺
-http://38.75.136.137:98/gslb/dsdqca/cctv3hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.44", CCTV-3 综艺
-http://hczn.x3322.net:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.19", CCTV-3 综艺
-http://38.75.136.137:98/gslb/dsdqbv/cctv3hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.17", CCTV-3 综艺
-https://iptv.catvod.com/live.php?id=CCTV3
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.0199999809265137", CCTV-3 综艺
-http://hczn.x3322.net:9902/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="0.94", CCTV-3 综艺
-http://117.36.76.86:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="0.936", CCTV-3 综艺
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/cctv3hd/2000/index.m3u8?msisdn=20260117112522c86ba7966847487ea7f02f9fb4a88737&mdspid=&spid=699004&netType=4&sid=5500212864&pid=2028597139&timestamp=20260117112522&Channel_ID=0116_2600001300-99000-201600010012143&ProgramID=624878271&ParentNodeID=-99&assertID=5500212864&client_ip=125.211.195.152&SecurityKey=20260117112522&promotionId=&mvid=5100001683&mcid=500020&playurlVersion=WX-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=b27613d27511f598c786238883836d42
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="3.0", CCTV-4 中文国际
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv4hd/1500/index.m3u8?msisdn=2026011711245202d0a100db8d47808eddebbdf3abcbf4&mdspid=&spid=699004&netType=4&sid=5500346947&pid=2028597139&timestamp=20260117112452&Channel_ID=0116_2600001300-99000-201600010012142&ProgramID=631780421&ParentNodeID=-99&assertID=5500346947&client_ip=125.211.195.3&SecurityKey=20260117112452&promotionId=&mvid=5101064235&mcid=500020&playurlVersion=WX-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=502f21526870f0819590b453051394c3
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="2.62", CCTV-4 中文国际
-http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="2.05", CCTV-4 中文国际
-https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.75", CCTV-4 中文国际
-http://tvlist.top/jd/index.php?id=cctv4&qt=183.224.122.114:8014
-#EXTINF:-1 group-title="央视" tvg-logo="https://logo.catvod.com/CCTV4K.png" download-speed="1.37", CCTV-4 中文国际
-https://iptv.catvod.com/live.php?id=CCTV4K
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.22", CCTV-4 中文国际
-https://iptv.catvod.com/live.php?id=CCTV4
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="3.36", CCTV-5 体育
-http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="3.06", CCTV-5 体育
-https://piccpndali.v.myalicdn.com/audio/cctv5plus_2.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="2.81", CCTV-5 体育
-https://iptv.catvod.com/live.php?id=CCTV5%2B
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="2.6500000953674316", CCTV-5 体育
-http://tvlist.top/jd/index.php?id=cctv5p&qt=183.224.122.114:8014
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="2.27", CCTV-5 体育
-http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="2.27", CCTV-5 体育
-http://tvlist.top/jd/index.php?id=cctv5&qt=183.224.122.114:8014
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.75", CCTV-5 体育
-http://117.36.76.86:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.71", CCTV-5 体育
-https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.69", CCTV-5 体育
-http://38.75.136.137:98/gslb/dsdqca/cctv5hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.66", CCTV-5 体育
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv5plusnew/1200/index.m3u8?msisdn=2026011711234921029f35b8e947878f8c1514ca051657&mdspid=&spid=699004&netType=4&sid=5500516288&pid=2028597139&timestamp=20260117112349&Channel_ID=0116_2600001300-99000-201600010012140&ProgramID=641886773&ParentNodeID=-99&assertID=5500516288&client_ip=125.211.195.6&SecurityKey=20260117112349&promotionId=&mvid=5102048803&mcid=500020&playurlVersion=WX-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=d2c3f531c17e2f81a69b23342fbb993a
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.64", CCTV-5 体育
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv5hdnew/1200/index.m3u8?msisdn=202601171124205887c073ea8648f0ae8d00ee8dd70537&mdspid=&spid=699004&netType=4&sid=5500516171&pid=2028597139&timestamp=20260117112420&Channel_ID=0116_2600001300-99000-201600010012141&ProgramID=641886683&ParentNodeID=-99&assertID=5500516171&client_ip=125.211.195.5&SecurityKey=20260117112420&promotionId=&mvid=5102048712&mcid=500020&playurlVersion=WX-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=05db64d6e9dd955a92e8dc78ca2f03ab
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.51", CCTV-5 体育
-http://23.237.228.134/live5/CCTV5p.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.48", CCTV-5 体育
-http://23.237.228.134/live5/CCTV5.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.2", CCTV-5 体育
-https://iptv.catvod.com/live.php?id=CCTV5
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.3", CCTV-5 体育
-http://222.169.85.8:9901/tsfile/live/0116_1.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.36", CCTV-5 体育
-https://www.wmviv.com/iptv/bc2t.php?id=cctv5p
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="3.4", CCTV-5 体育
-http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.41", CCTV-5 体育
-http://go.bkpcp.top/mg/cctv5
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="3.16", CCTV-6 电影
-http://38.75.136.137:98/gslb/dsdqbv/cctv6hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="2.48", CCTV-6 电影
-http://38.75.136.137:98/gslb/dsdqca/cctv6hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.66", CCTV-6 电影
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/cctv6hd/2000/index.m3u8?msisdn=202601171123185f6aea6aaf964c9981c0c2bd4b1a424e&mdspid=&spid=699004&netType=4&sid=5500212872&pid=2028597139&timestamp=20260117112318&Channel_ID=0116_2600001300-99000-201600010012139&ProgramID=624878396&ParentNodeID=-99&assertID=5500212872&client_ip=125.211.195.7&SecurityKey=20260117112318&promotionId=&mvid=5100001694&mcid=500020&playurlVersion=WX-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=8057d34f335bf04a8bf993c5af4857a0
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.31", CCTV-6 电影
-https://iptv.catvod.com/live.php?id=CCTV6
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.059999942779541", CCTV-6 电影
-https://smart.dxjc.pp.ua/smart.php?id=cctv6&token=tmxk
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="3.19", CCTV-7 国防军事
-http://38.75.136.137:98/gslb/dsdqpub/cctv7hd.m3u8?auth=testpub
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="2.98", CCTV-7 国防军事
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv7hd/51/index.m3u8?msisdn=20260117112247bcfbe8a25359489f9d6f280e89d1b7bc&mdspid=&spid=699004&netType=4&sid=5501083622&pid=2028597139&timestamp=20260117112247&Channel_ID=0116_2600001300-99000-201600010012138&ProgramID=673168121&ParentNodeID=-99&assertID=5501083622&client_ip=125.211.195.8&SecurityKey=20260117112247&promotionId=&mvid=5102910278&mcid=500020&playurlVersion=WX-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=bed5c8ed637c831b90965b4dc0134d40
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="2.89", CCTV-7 国防军事
-http://38.75.136.137:98/gslb/dsdqbv/cctv7hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="2.27", CCTV-7 国防军事
-http://38.75.136.137:98/gslb/dsdqca/cctv7hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="2.2", CCTV-7 国防军事
-http://23.237.228.134/live5/CCTV7.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.93", CCTV-7 国防军事
-http://tvlist.top/jd/index.php?id=cctv7&qt=183.224.122.114:8014
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.62", CCTV-7 国防军事
-https://iptv.catvod.com/live.php?id=CCTV7
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.5", CCTV-7 国防军事
-http://gfr.x3322.net:9901/tsfile/live/1072_1.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.13", CCTV-7 国防军事
-http://112.27.235.94:8000/hls/8/index.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="0.961", CCTV-7 国防军事
-http://27.41.245.32:801/hls/7/index.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="3.28", CCTV-8 电视剧
-http://38.75.136.137:98/gslb/dsdqbv/cctv8hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="3.11", CCTV-8 电视剧
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/cctv8hd/2000/index.m3u8?msisdn=20260117112216e85e4363b7b74b01a74dc0dfc64b0763&mdspid=&spid=699004&netType=4&sid=5500212868&pid=2028597139&timestamp=20260117112216&Channel_ID=0116_2600001300-99000-201600010012137&ProgramID=624878356&ParentNodeID=-99&assertID=5500212868&client_ip=125.211.195.9&SecurityKey=20260117112216&promotionId=&mvid=5100001695&mcid=500020&playurlVersion=WX-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=4054b52a9dee6e4d62fc79126992241a
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="2.2", CCTV-8 电视剧
-http://tvlist.top/jd/index.php?id=cctv8&qt=183.224.122.114:8014
-#EXTINF:-1 group-title="央视" tvg-logo="https://logo.catvod.com/CCTV8.png" download-speed="1.55", CCTV-8 电视剧
-https://iptv.catvod.com/live.php?id=CCTV8
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.44", CCTV-8 电视剧
-http://27.41.245.32:801/hls/8/index.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.36", CCTV-8 电视剧
-http://tvlist.top/jd/index.php?id=cctv8&qt=tkmark.direct.quickconnect.to:8014
-#EXTINF:-1 group-title="央视" tvg-logo="https://logo.catvod.com/CCTV8K.png" download-speed="1.1", CCTV-8 电视剧
-https://iptv.catvod.com/live.php?id=CCTV8K
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="2.74", CCTV-9 纪录
-http://tvlist.top/jd/index.php?id=cctv9&qt=183.224.122.114:8014
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.72", CCTV-9 纪录
-http://btjg.net:809/hls/9/index.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.61", CCTV-9 纪录
-https://iptv.catvod.com/live.php?id=CCTV9
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.49", CCTV-9 纪录
-http://27.41.245.32:801/hls/9/index.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.48", CCTV-9 纪录
-http://23.237.228.134/live5/CCTV9.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="0.986", CCTV-9 纪录
-http://112.27.235.94:8000/hls/10/index.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="3.52", CCTV-10 科教
-http://38.75.136.137:98/gslb/dsdqpub/cctv10hd.m3u8?auth=testpub
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="3.05", CCTV-10 科教
-http://38.75.136.137:98/gslb/dsdqbv/cctv10hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="2.99", CCTV-10 科教
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/cctv10hd/2000/index.m3u8?msisdn=2026011711211443b3443258354b1b8b9f0b437da14b30&mdspid=&spid=699004&netType=4&sid=5500212874&pid=2028597139&timestamp=20260117112114&Channel_ID=0116_2600001300-99000-201600010012135&ProgramID=624878405&ParentNodeID=-99&assertID=5500212874&client_ip=125.211.195.11&SecurityKey=20260117112114&promotionId=&mvid=5100001696&mcid=500020&playurlVersion=WX-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=d580efb56ca5617d6cf282166879b246
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="2.0", CCTV-10 科教
-http://tvlist.top/jd/index.php?id=cctv10&qt=183.224.122.114:8014
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.34", CCTV-10 科教
-http://tvlist.top/jd/index.php?id=cctv10&qt=222.128.15.132:8014
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.32", CCTV-10 科教
-https://iptv.catvod.com/live.php?id=CCTV10
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.03", CCTV-10 科教
-http://112.27.235.94:8000/hls/11/index.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="0.945", CCTV-10 科教
-http://27.41.245.32:801/hls/10/index.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="4.639999866485596", CCTV-11 戏曲
-http://tvlist.top/jd/index.php?id=cctv11&qt=183.224.122.114:8014
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="2.97", CCTV-11 戏曲
-https://piccpndali.v.myalicdn.com/audio/cctv11_2.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="2.96", CCTV-11 戏曲
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cctv11hd/51/20200103/index.m3u8?msisdn=202601171120433494c09865b642d19a279e881ecd03c4&mdspid=&spid=699004&netType=4&sid=5500988610&pid=2028597139&timestamp=20260117112043&Channel_ID=0116_2600001300-99000-201600010012134&ProgramID=667987558&ParentNodeID=-99&assertID=5500988610&client_ip=125.211.195.12&SecurityKey=20260117112043&promotionId=&mvid=5102751362&mcid=500020&playurlVersion=WX-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=f683c14dbfacd0983c4a376c22dfef26
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="2.84", CCTV-11 戏曲
-http://38.75.136.137:98/gslb/dsdqbv/cctv11hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="2.25", CCTV-11 戏曲
-http://69.30.246.194/live/cctv11.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.47", CCTV-11 戏曲
-https://iptv.catvod.com/live.php?id=CCTV11
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.05", CCTV-11 戏曲
-http://38.75.136.137:98/gslb/dsdqca/cctv11hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="4.190000057220459", CCTV-12 社会与法
-http://112.46.85.60:8009/hls/507/index.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="2.86", CCTV-12 社会与法
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv12hd/51/index.m3u8?msisdn=2026011711201268ab5881af7b4f03b42829336583fc43&mdspid=&spid=699004&netType=4&sid=5501083627&pid=2028597139&timestamp=20260117112012&Channel_ID=0116_2600001300-99000-201600010012133&ProgramID=673168185&ParentNodeID=-99&assertID=5501083627&client_ip=125.211.195.13&SecurityKey=20260117112012&promotionId=&mvid=5102910389&mcid=500020&playurlVersion=WX-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=7ab6b0f1eb96ecdf31a2aed63416932d
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="2.27", CCTV-12 社会与法
-http://tvlist.top/jd/index.php?id=cctv12&qt=183.224.122.114:8014
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="2.04", CCTV-12 社会与法
-http://69.30.246.194/live/cctv12.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.87", CCTV-12 社会与法
-http://38.75.136.137:98/gslb/dsdqbv/cctv12hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.52", CCTV-12 社会与法
-http://124.165.251.82:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.26", CCTV-12 社会与法
-https://iptv.catvod.com/live.php?id=CCTV12
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="3.12", CCTV-13 新闻
-http://38.75.136.137:98/gslb/dsdqbv/cctv13hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="2.86", CCTV-13 新闻
-http://tvlist.top/jd/index.php?id=cctv13&qt=183.224.122.114:8014
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.65", CCTV-13 新闻
-http://hlsztemgsplive.miguvideo.com:8080/envivo_x/2018/SD/cctv13/2000/index.m3u8?msisdn=2026011711272617be226ccab24c1cae580a48c58b8c75&mdspid=&spid=699004&netType=4&sid=2202208864&pid=2028597139&timestamp=20260117112726&Channel_ID=0116_2600001300-99000-201600010012147&ProgramID=608807423&ParentNodeID=-99&assertID=2202208864&client_ip=125.211.195.20&SecurityKey=20260117112726&promotionId=&mvid=2202208864&mcid=500020&playurlVersion=WX-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=38a30451e30cc1fe17047e4b0defddf1
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.63", CCTV-13 新闻
-http://hlsztemgsplive.miguvideo.com:8080/envivo_x/2018/SD/cctv13/2000/index.m3u8?msisdn=202601171126558459221765e9475ead72ae7b0c74804e&mdspid=&spid=699004&netType=4&sid=2202208864&pid=2028597139&timestamp=20260117112655&Channel_ID=0116_2600001300-99000-201600010012146&ProgramID=608807423&ParentNodeID=-99&assertID=2202208864&client_ip=113.6.228.25&SecurityKey=20260117112655&promotionId=&mvid=2202208864&mcid=500020&playurlVersion=WX-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=f6e69cd0c452372f66cf390596471dd3
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.6200000047683716", CCTV-13 新闻
-https://live.catvod.com/iptv.php?id=cctv13
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.47", CCTV-13 新闻
-http://pull-hls-f1.douyincdn.com/media/stream-695065543169802924/playlist.m3u8?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-20260114100034DF4F7B64783BCEE03D62-cgFmIh&wsSecret=426253b39f3060b1699a4f284214f078&wsTime=6966f8c2
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.45", CCTV-13 新闻
-http://183.215.134.239:19901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.41", CCTV-13 新闻
-http://hlsztemgsplive.miguvideo.com:8080/envivo_x/2018/SD/cctv13/2000/index.m3u8?msisdn=202601171126246d1b3d96e43f4b6f8007ea5eaa918241&mdspid=&spid=699004&netType=4&sid=2202208864&pid=2028597139&timestamp=20260117112624&Channel_ID=0116_2600001300-99000-201600010012145&ProgramID=608807423&ParentNodeID=-99&assertID=2202208864&client_ip=125.211.195.2&SecurityKey=20260117112624&promotionId=&mvid=2202208864&mcid=500020&playurlVersion=WX-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=b814d2921256f3c0dc4f6da77583d59a
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.34", CCTV-13 新闻
-https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.24", CCTV-13 新闻
-http://38.75.136.137:98/gslb/dsdqca/cctv13hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.16", CCTV-13 新闻
-https://iptv.catvod.com/live.php?id=CCTV13
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="3.5299999713897705", CCTV-14 少儿
-http://tvlist.top/jd/index.php?id=cctv14&qt=183.224.122.114:8014
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="3.52", CCTV-14 少儿
-http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="3.3", CCTV-14 少儿
-http://69.30.246.194/live/cctv14.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="2.79", CCTV-14 少儿
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/cctv14hd/2000/index.m3u8?msisdn=20260117111941c17cfd87ba05432e879771e9329bd905&mdspid=&spid=699004&netType=4&sid=5500212875&pid=2028597139&timestamp=20260117111941&Channel_ID=0116_2600001300-99000-201600010012132&ProgramID=624878440&ParentNodeID=-99&assertID=5500212875&client_ip=163.125.249.101&SecurityKey=20260117111941&promotionId=&mvid=5100001697&mcid=500020&playurlVersion=WX-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=8c2c09aaec4602b41635282ef8c64d2e
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.95", CCTV-14 少儿
-http://38.75.136.137:98/gslb/dsdqca/cctv14hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.44", CCTV-14 少儿
-http://27.41.245.32:801/hls/14/index.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.34", CCTV-14 少儿
-https://iptv.catvod.com/live.php?id=CCTV14
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="3.32", CCTV-15 音乐
-http://69.30.246.194/live/cctv15.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="3.12", CCTV-15 音乐
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv15hd/51/index.m3u8?msisdn=2026011711191066b03393a78547589b9706295bf6d0be&mdspid=&spid=699004&netType=4&sid=5501083628&pid=2028597139&timestamp=20260117111910&Channel_ID=0116_2600001300-99000-201600010012131&ProgramID=673168223&ParentNodeID=-99&assertID=5501083628&client_ip=125.211.195.15&SecurityKey=20260117111910&promotionId=&mvid=5102910391&mcid=500020&playurlVersion=WX-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=65faca8d60a8e35bfd560c2c336e69b5
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="2.79", CCTV-15 音乐
-http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="2.21", CCTV-15 音乐
-https://iptv.catvod.com/live.php?id=CCTV15
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.82", CCTV-15 音乐
-http://38.75.136.137:98/gslb/dsdqpub/cctv15hd.m3u8?auth=testpub
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.56", CCTV-15 音乐
-http://38.75.136.137:98/gslb/dsdqca/cctv15hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.38", CCTV-15 音乐
-http://23.237.228.134/live3/CCTV15.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.37", CCTV-15 音乐
-http://tvlist.top/jd/index.php?id=cctv15&qt=183.224.122.114:8014
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.02", CCTV-15 音乐
-http://btjg.net:809/hls/15/index.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="3.02", CCTV-15 音乐
-https://www.wmviv.com/iptv/bc2t.php?id=cctv15
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="2.95", CCTV-15 音乐
-http://go.bkpcp.top/mg/cctv15
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="3.35", CCTV-16 奥林匹克
-http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="3.28", CCTV-16 奥林匹克
-http://69.30.246.194/live/cctv16.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="3.18", CCTV-16 奥林匹克
-http://38.75.136.137:98/gslb/dsdqca/cctv16hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="3.16", CCTV-16 奥林匹克
-https://piccpndali.v.myalicdn.com/audio/cctv16_2.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="2.65", CCTV-16 奥林匹克
-http://tvlist.top/jd/index.php?id=cctv16&qt=183.224.122.114:8014
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="2.39", CCTV-16 奥林匹克
-http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.48", CCTV-16 奥林匹克
-https://iptv.catvod.com/live.php?id=CCTV16
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="4.14", CCTV-17 农业农村
-http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="3.809999942779541", CCTV-17 农业农村
-https://live.catvod.com/iptv.php?id=rthk33
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="3.36", CCTV-17 农业农村
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="2.19", CCTV-1 综合
 http://38.75.136.137:98/gslb/dsdqca/cctv1hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="3.03", CCTV-17 农业农村
-https://piccpndali.v.myalicdn.com/audio/cctv17_2.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="2.58", CCTV-17 农业农村
-http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="2.31", CCTV-17 农业农村
-http://23.237.228.134/live3/CCTV17.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="2.18", CCTV-17 农业农村
-http://38.75.136.137:98/gslb/dsdqca/cctv17hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.69", CCTV-17 农业农村
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.46", CCTV-1 综合
 http://23.237.228.134/live5/CCTV1.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.5", CCTV-17 农业农村
-https://iptv.catvod.com/live.php?id=CCTV1
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.44", CCTV-17 农业农村
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv17hd/51/index.m3u8?msisdn=202601171118396c82ef2661cd43118b13adef47ac3315&mdspid=&spid=699004&netType=4&sid=5501083631&pid=2028597139&timestamp=20260117111839&Channel_ID=0116_2600001300-99000-201600010012130&ProgramID=673168256&ParentNodeID=-99&assertID=5501083631&client_ip=125.211.195.16&SecurityKey=20260117111839&promotionId=&mvid=5102910396&mcid=500020&playurlVersion=WX-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=9e5826eb53ee5eabae5c32fb79fd945d
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.41", CCTV-17 农业农村
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.42", CCTV-1 综合
+http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.31", CCTV-1 综合
 http://hczn.x3322.net:9902/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.33", CCTV-17 农业农村
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.17", CCTV-1 综合
+https://iptv.catvod.com/live.php?id=CCTV1
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.0", CCTV-1 综合
+https://live.catvod.com/iptv.php?id=rthk33
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="0.962", CCTV-1 综合
+http://120.76.248.139/live/bfgd/4200000488.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="2.94", CCTV-2 财经
+http://38.75.136.137:98/gslb/dsdqpub/cctv2hd.m3u8?auth=testpub
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="2.78", CCTV-2 财经
+http://38.75.136.137:98/gslb/dsdqca/cctv2hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="2.14", CCTV-2 财经
+http://23.237.228.134/live5/CCTV2.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.48", CCTV-2 财经
+http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.26", CCTV-2 财经
+http://tvlist.top/jd/index.php?id=cctv2&qt=183.224.122.114:8014
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.21", CCTV-2 财经
+https://iptv.catvod.com/live.php?id=CCTV2
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.21", CCTV-2 财经
+http://pull-hls-f1.douyincdn.com/media/stream-695106910011261612/playlist.m3u8?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-20260114100308192594C57677D9CCE8DA-vujvxt&wsSecret=5aec4b2fd09a7a40920df80db1862da9&wsTime=6966f95d
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.04", CCTV-2 财经
+http://pull-flv-f1.douyincdn.com/media/stream-695106910011261612.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-20260114100308192594C57677D9CCE8DA-vujvxt&unique_id=stream-695106910011261612_684_flv&wsSecret=fc06766784777da294247d06ae30f581&wsTime=6966f95d
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="0.5099999904632568", CCTV-2 财经
+http://bxtv.3a.ink/api.php?id=cctv2
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="2.22", CCTV-3 综艺
+http://tvlist.top/jd/index.php?id=cctv3&qt=183.224.122.114:8014
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="2.02", CCTV-3 综艺
+http://38.75.136.137:98/gslb/dsdqca/cctv3hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.8799999952316284", CCTV-3 综艺
+http://117.36.76.86:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.76", CCTV-3 综艺
+http://38.75.136.137:98/gslb/dsdqbv/cctv3hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.41", CCTV-3 综艺
+http://hczn.x3322.net:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.16", CCTV-3 综艺
+https://iptv.catvod.com/live.php?id=CCTV3
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="2.430000066757202", CCTV-4 中文国际
+http://tvlist.top/jd/index.php?id=cctv4&qt=183.224.122.114:8014
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.94", CCTV-4 中文国际
+http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="央视" tvg-logo="https://logo.catvod.com/CCTV4K.png" download-speed="1.72", CCTV-4 中文国际
+https://iptv.catvod.com/live.php?id=CCTV4K
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.42", CCTV-4 中文国际
+http://btjg.net:809/hls/143/index.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.41", CCTV-4 中文国际
+https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.14", CCTV-4 中文国际
+http://btjg.net:809/hls/144/index.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="0.918", CCTV-4 中文国际
+https://iptv.catvod.com/live.php?id=CCTV4
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="3.13", CCTV-5 体育
+https://piccpndali.v.myalicdn.com/audio/cctv5plus_2.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="2.57", CCTV-5 体育
+https://iptv.catvod.com/live.php?id=CCTV5%2B
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="2.2", CCTV-5 体育
+https://www.wmviv.com/iptv/bc2t.php?id=cctv5p
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="2.08", CCTV-5 体育
+https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="2.07", CCTV-5 体育
+http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.97", CCTV-5 体育
+http://23.237.228.134/live5/CCTV5p.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.88", CCTV-5 体育
+http://38.75.136.137:98/gslb/dsdqca/cctv5hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.61", CCTV-5 体育
+http://go.bkpcp.top/mg/cctv5
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.47", CCTV-5 体育
+http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.36", CCTV-5 体育
+http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="0.922", CCTV-5 体育
+https://iptv.catvod.com/live.php?id=CCTV5
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="0.8600000143051147", CCTV-5 体育
+https://smart.dxjc.pp.ua/smart.php?id=cctv5plus&token=tmxk
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="0.6800000071525574", CCTV-5 体育
+http://23.237.228.134/live5/CCTV5.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.87", CCTV-6 电影
+http://38.75.136.137:98/gslb/dsdqca/cctv6hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.84", CCTV-6 电影
+http://tvlist.top/jd/index.php?id=cctv6&qt=183.224.122.114:8014
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.6", CCTV-6 电影
+http://38.75.136.137:98/gslb/dsdqbv/cctv6hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.33", CCTV-6 电影
+https://iptv.catvod.com/live.php?id=CCTV6
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="0.939", CCTV-6 电影
+http://27.41.245.32:801/hls/6/index.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="2.8499999046325684", CCTV-7 国防军事
+http://tvlist.top/jd/index.php?id=cctv7&qt=183.224.122.114:8014
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="2.33", CCTV-7 国防军事
+http://23.237.228.134/live5/CCTV7.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.69", CCTV-7 国防军事
+http://38.75.136.137:98/gslb/dsdqpub/cctv7hd.m3u8?auth=testpub
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.67", CCTV-7 国防军事
+http://38.75.136.137:98/gslb/dsdqbv/cctv7hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.38", CCTV-7 国防军事
+http://38.75.136.137:98/gslb/dsdqca/cctv7hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.12", CCTV-7 国防军事
+https://iptv.catvod.com/live.php?id=CCTV7
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="3.0999999046325684", CCTV-8 电视剧
+http://tvlist.top/jd/index.php?id=cctv8&qt=183.224.122.114:8014
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.28", CCTV-8 电视剧
+http://38.75.136.137:98/gslb/dsdqbv/cctv8hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="央视" tvg-logo="https://logo.catvod.com/CCTV8K.png" download-speed="1.05", CCTV-8 电视剧
+https://iptv.catvod.com/live.php?id=CCTV8K
+#EXTINF:-1 group-title="央视" tvg-logo="https://logo.catvod.com/CCTV8.png" download-speed="0.908", CCTV-8 电视剧
+https://iptv.catvod.com/live.php?id=CCTV8
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="0.550000011920929", CCTV-8 电视剧
+https://smart.dxjc.pp.ua/smart.php?id=cctv8hd&token=tmxk
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.3", CCTV-9 纪录
+http://btjg.net:809/hls/9/index.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.29", CCTV-9 纪录
+http://23.237.228.134/live5/CCTV9.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.21", CCTV-9 纪录
+https://iptv.catvod.com/live.php?id=CCTV9
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.12", CCTV-9 纪录
+http://27.41.245.32:801/hls/9/index.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.04", CCTV-9 纪录
+http://tvlist.top/jd/index.php?id=cctv9&qt=183.224.122.114:8014
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.65", CCTV-10 科教
+http://38.75.136.137:98/gslb/dsdqca/cctv10hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.64", CCTV-10 科教
+http://38.75.136.137:98/gslb/dsdqpub/cctv10hd.m3u8?auth=testpub
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.56", CCTV-10 科教
+http://38.75.136.137:98/gslb/dsdqbv/cctv10hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.559999942779541", CCTV-10 科教
+http://tvlist.top/jd/index.php?id=cctv10&qt=222.128.15.132:8014
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.04", CCTV-10 科教
+http://tvlist.top/jd/index.php?id=cctv10&qt=183.224.122.114:8014
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.01", CCTV-10 科教
+https://iptv.catvod.com/live.php?id=CCTV10
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="3.08", CCTV-11 戏曲
+https://piccpndali.v.myalicdn.com/audio/cctv11_2.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="2.9000000953674316", CCTV-11 戏曲
+https://iptv.catvod.com/live.php?id=CCTV11
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="2.23", CCTV-11 戏曲
+http://69.30.246.194/live/cctv11.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="https://gcore.jsdelivr.net/gh/sparkssssssssss/epg/logo/%E5%B2%AD%E5%8D%97%E6%88%8F%E6%9B%B2.png" download-speed="1.83", CCTV-11 戏曲
+https://hk.188766.xyz/?migutoken=de4a896c79da329a9a454cfd404b3daf&id=gd_lnxq&type=sz
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.49", CCTV-11 戏曲
+http://38.75.136.137:98/gslb/dsdqbv/cctv11hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.23", CCTV-11 戏曲
+http://tvlist.top/jd/index.php?id=cctv11&qt=183.224.122.114:8014
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="0.977", CCTV-11 戏曲
+http://38.75.136.137:98/gslb/dsdqca/cctv11hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="0.7799999713897705", CCTV-11 戏曲
+http://112.27.235.94:8000/hls/12/index.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="0.5199999809265137", CCTV-11 戏曲
+https://smart.dxjc.pp.ua/smart.php?id=cctv11&token=tmxk
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="4.349999904632568", CCTV-12 社会与法
+https://iptv.catvod.com/live.php?id=CCTV12
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.77", CCTV-12 社会与法
+http://69.30.246.194/live/cctv12.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.39", CCTV-12 社会与法
+http://tvlist.top/jd/index.php?id=cctv12&qt=183.224.122.114:8014
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.28", CCTV-12 社会与法
+http://38.75.136.137:98/gslb/dsdqbv/cctv12hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="2.32", CCTV-13 新闻
+http://38.75.136.137:98/gslb/dsdqca/cctv13hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.7200000286102295", CCTV-13 新闻
+http://tvlist.top/jd/index.php?id=cctv13&qt=183.224.122.114:8014
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.63", CCTV-13 新闻
+https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.49", CCTV-13 新闻
+http://38.75.136.137:98/gslb/dsdqbv/cctv13hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.41", CCTV-13 新闻
+http://183.215.134.239:19901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.2", CCTV-13 新闻
+http://pull-hls-f1.douyincdn.com/media/stream-695065543169802924/playlist.m3u8?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-20260114100034DF4F7B64783BCEE03D62-cgFmIh&wsSecret=426253b39f3060b1699a4f284214f078&wsTime=6966f8c2
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.1299999952316284", CCTV-13 新闻
+https://live.catvod.com/iptv.php?id=cctv13
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.9299999475479126", CCTV-14 少儿
+http://tvlist.top/jd/index.php?id=cctv14&qt=183.224.122.114:8014
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.89", CCTV-14 少儿
+http://38.75.136.137:98/gslb/dsdqca/cctv14hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.53", CCTV-14 少儿
+http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.49", CCTV-14 少儿
+http://27.41.245.32:801/hls/14/index.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.1", CCTV-14 少儿
+http://69.30.246.194/live/cctv14.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.07", CCTV-14 少儿
+https://iptv.catvod.com/live.php?id=CCTV14
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="2.13", CCTV-15 音乐
+http://go.bkpcp.top/mg/cctv15
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="2.11", CCTV-15 音乐
+https://iptv.catvod.com/live.php?id=CCTV15
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="2.08", CCTV-15 音乐
+http://38.75.136.137:98/gslb/dsdqca/cctv15hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="2.08", CCTV-15 音乐
+http://tvlist.top/jd/index.php?id=cctv15&qt=183.224.122.114:8014
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.94", CCTV-15 音乐
+http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.73", CCTV-15 音乐
+http://23.237.228.134/live3/CCTV15.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.46", CCTV-15 音乐
+http://38.75.136.137:98/gslb/dsdqpub/cctv15hd.m3u8?auth=testpub
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.22", CCTV-15 音乐
+http://69.30.246.194/live/cctv15.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="0.5099999904632568", CCTV-15 音乐
+https://smart.dxjc.pp.ua/smart.php?id=cctv15&token=tmxk
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="3.49", CCTV-16 奥林匹克
+https://piccpndali.v.myalicdn.com/audio/cctv16_2.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="2.930000066757202", CCTV-16 奥林匹克
+http://tvlist.top/jd/index.php?id=cctv16&qt=183.224.122.114:8014
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="2.7", CCTV-16 奥林匹克
+http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="2.17", CCTV-16 奥林匹克
+http://69.30.246.194/live/cctv16.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.5", CCTV-16 奥林匹克
+http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.08", CCTV-16 奥林匹克
+http://38.75.136.137:98/gslb/dsdqca/cctv16hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="0.971", CCTV-16 奥林匹克
+https://iptv.catvod.com/live.php?id=CCTV16
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="3.34", CCTV-17 农业农村
+https://piccpndali.v.myalicdn.com/audio/cctv17_2.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="2.22", CCTV-17 农业农村
+http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.68", CCTV-17 农业农村
+http://38.75.136.137:98/gslb/dsdqca/cctv17hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.39", CCTV-17 农业农村
+http://23.237.228.134/live3/CCTV17.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.29", CCTV-17 农业农村
 https://iptv.catvod.com/live.php?id=CCTV17
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.32", CCTV-17 农业农村
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.21", CCTV-17 农业农村
 http://38.75.136.137:98/gslb/dsdqpub/cctv17hd.m3u8?auth=testpub
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="0.9700000286102295", CCTV-17 农业农村
-http://bxtv.3a.ink/api.php?id=cctv1
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.35", 爱奇艺
-http://php.jdshipin.com:8880/smt.php?id=Qiyi&token=tmxk
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.56", CCTV-世界地理
-http://hmfs.f3322.net:3388/hls/28/index.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="2.68", CCTV-兵器科技
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.39", CCTV-世界地理
+http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.53", CCTV-兵器科技
 http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="2.57", CCTV-女性时尚
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.85", CCTV-央视文化精品
+http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.38", CCTV-央视文化精品
+https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="2.72", CCTV-女性时尚
 http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.58", CCTV-娱乐
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.19", CCTV-女性时尚
+http://111.61.236.247:9081/hls/59/index.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="4.1", CCTV-娱乐
+https://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="3.36", CCTV-娱乐
+http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8?zzhed
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="2.6", CCTV-娱乐
+http://stream.thmz.com/wxtv2/sd/live.m3u8?_upt=acffe97a1704940314
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="2.56", CCTV-娱乐
+https://stream.thmz.com/wxtv2/playlist.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="2.36", CCTV-娱乐
 http://stream.thmz.com/wxtv2/sd/live.m3u8?zjiangsd$无锡广电
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="2.16", CCTV-怀旧剧场
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.64", CCTV-娱乐
+http://stream.hrbtv.net/ylpd/sd/live.m3u8?zheild#http://stream.hrbtv.net/ylpd/sd/live.m3u8#https://stream.hrbtv.net/ylpd/sd/live.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.55", CCTV-娱乐
+http://stream.thmz.com/wxtv2/sd/live.m3u8?_upt=978cd8731706199708
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.53", CCTV-娱乐
+https://stream.hrbtv.net/ylpd/sd/live.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.2", CCTV-娱乐
+http://hzcm-live.media.hugd.com/613c47f0ab0d4eaa98b21378d0db6ded/0051d31c9dd543a7825eea4e49675b2a.m3u8?auth_key=2277598059-0a5ebfa1c0dc4671b42a60810fc37039-0-fa625b7d1feab612062453c12e3c8887
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.17", CCTV-娱乐
+http://stream.thmz.com/wxtv2/playlist.m3u8?_upt=5ff4061f1706166872
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.16", CCTV-娱乐
+https://hzcm-live.media.hugd.com/613c47f0ab0d4eaa98b21378d0db6ded/0051d31c9dd543a7825eea4e49675b2a.m3u8?auth_key=2277598059-0a5ebfa1c0dc4671b42a60810fc37039-0-fa625b7d1feab612062453c12e3c8887
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.11", CCTV-娱乐
+http://hzcm-live.media.hugd.com/613c47f0ab0d4eaa98b21378d0db6ded/0051d31c9dd543a7825eea4e49675b2a.m3u8?auth_key=2277598059-0a5ebfa1c0dc4671b42a60810fc37039-0-fa625b7d1feab612062453c12e3c8887&fbl=
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="0.949999988079071", CCTV-娱乐
+http://live1.habctv.com/ysylsl/sd/live.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.39", CCTV-怀旧剧场
 http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.14", CCTV-怀旧剧场
-http://61.184.46.85:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="3.86", CCTV-电视指南
-http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="2.1", CCTV-第一剧场
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="3.46", CCTV-第一剧场
+http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="3.24", CCTV-第一剧场
+http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="2.11", CCTV-第一剧场
 http://ls.qingting.fm/live/276.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.86", CCTV-第一剧场
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.25", CCTV-第一剧场
 http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.06", CCTV-第一剧场
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.08", CCTV-第一剧场
 http://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="0.961", CCTV-第一剧场
-http://61.184.46.85:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.64", CCTV-风云足球
-http://27.41.245.32:801/hls/906/index.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.62", CCTV-风云足球
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.21", CCTV-风云足球
 http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
-#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.13", 中国教育4台
-http://112.254.55.106:22222/rtp/239.253.254.116:8000
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="3.54", 北京卫视
-http://38.75.136.137:98/gslb/dsdqpub/bjwshd.m3u8?auth=testpub
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="3.4600000381469727", 北京卫视
-http://139.ye23.vip/dl/btv2502.php?id=bjws4
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="3.25", 北京卫视
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/bjws/51/20251127/index.m3u8?msisdn=202601171117061c6660ea5c634b2c915178d4ebb98959&mdspid=&spid=600697&netType=4&sid=5910022306&pid=2028597139&timestamp=20260117111706&Channel_ID=0116_2600001300-99000-201600010012127&ProgramID=630287636&ParentNodeID=-99&assertID=5910022306&client_ip=125.211.195.19&SecurityKey=20260117111706&promotionId=&mvid=5101042960&mcid=500020&playurlVersion=WX-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=068c2e672b5c9a94cadcef3461f5d987
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="2.79", 北京卫视
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.2", CCTV-风云足球
+http://27.41.245.32:801/hls/906/index.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="1.8", CCTV-高尔夫网球
+http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
+#EXTINF:-1 group-title="央视" tvg-logo="" download-speed="0.7799999713897705", CCTV-高尔夫网球
+https://smart.dxjc.pp.ua/smart.php?id=bositennis_twn&token=tmxk
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="5.11", 北京卫视
+http://player.cntv.cn/standard/live_HLSDRM20180606.swf?ChannelID=btv3&P2PChannelID=pd://cctv_p2p_hdbtv3
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="2.8499999046325684", 北京卫视
 http://tvlist.top/jd/index.php?id=bjws&qt=183.224.122.114:8014
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="2.57", 北京卫视
-http://tvlist.top/jd/index.php?id=live1023&qt=tkmark.direct.quickconnect.to:8014
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.89", 北京卫视
-http://183.215.134.239:19901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.61", 北京卫视
-https://iptv.catvod.com/live.php?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.58", 北京卫视
-http://38.75.136.137:98/gslb/dsdqbv/bjwshd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.44", 北京卫视
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="2.09", 北京卫视
+http://38.75.136.137:98/gslb/dsdqpub/bjwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="2.08", 北京卫视
+https://ls.qingting.fm/live/339/64k.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.88", 北京卫视
+https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv7_1/index.m3u8?adapt=0&BR=audio
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.8799999952316284", 北京卫视
+http://139.ye23.vip/dl/btv2502.php?id=bjws4
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.79", 北京卫视
 https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv4_1/index.m3u8?adapt=0&BR=audio
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.39", 北京卫视
-http://112.27.235.94:8000/hls/27/index.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.09", 北京卫视
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.65", 北京卫视
+http://tvlist.top/jd/index.php?id=live1023&qt=tkmark.direct.quickconnect.to:8014
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.53", 北京卫视
+https://iptv.catvod.com/live.php?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.38", 北京卫视
+http://38.75.136.137:98/gslb/dsdqbv/bjwshd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.31", 北京卫视
+http://183.215.134.239:19901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.17", 北京卫视
+https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.11", 北京卫视
+https://brtv-radiolive.rbc.cn/alive/fm945.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.06", 北京卫视
 http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="3.43", 天津卫视
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="3.3", 天津卫视
 http://38.75.136.137:98/gslb/dsdqca/tjwshd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="2.75", 天津卫视
-http://tvlist.top/jd/index.php?id=tjws&qt=183.224.122.114:8014
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.89", 天津卫视
-http://38.75.136.137:98/gslb/dsdqpub/tjwshd.m3u8?auth=testpub
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.67", 天津卫视
-http://btjg.net:809/hls/46/index.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.67", 天津卫视
-http://23.237.228.134/live8/tianjing.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.47", 天津卫视
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.7699999809265137", 天津卫视
 https://iptv.catvod.com/live.php?id=%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.01", 天津卫视
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.33", 天津卫视
+http://23.237.228.134/live8/tianjing.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.29", 天津卫视
+http://38.75.136.137:98/gslb/dsdqpub/tjwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.23", 天津卫视
+http://tvlist.top/jd/index.php?id=tjws&qt=183.224.122.114:8014
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="0.945", 天津卫视
 http://112.27.235.94:8000/hls/42/index.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="3.369999885559082", 东方卫视
-http://tvlist.top/jd/index.php?id=dfws&qt=183.224.122.114:8014
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="3.36", 东方卫视
-http://69.30.246.194/live/dfws.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="3.33", 东方卫视
-http://38.75.136.137:98/gslb/dsdqpub/dfwshd.m3u8?auth=testpub
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="3.27", 东方卫视
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="2.84", 东方卫视
 http://38.75.136.137:98/gslb/dsdqbv/dfwshd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="3.03", 东方卫视
-http://hlsztemgsplive.miguvideo.com:8080/wd_r4/dfl/dongfangwshd/1200/index.m3u8?msisdn=2026011711180818cc2720e8184eefb353ccc2157386b3&mdspid=&spid=600697&netType=4&sid=5910022185&pid=2028597139&timestamp=20260117111808&Channel_ID=0116_2600001300-99000-201600010012129&ProgramID=651632648&ParentNodeID=-99&assertID=5910022185&client_ip=125.211.195.17&SecurityKey=20260117111808&promotionId=&mvid=5100043384&mcid=500020&playurlVersion=WX-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=345627d42665e5a24b6277751d7a8e6c
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.73", 东方卫视
-https://iptv.catvod.com/live.php?id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.55", 东方卫视
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="2.35", 东方卫视
 http://23.237.228.134/live6/dongnan.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.45", 东方卫视
-http://112.123.243.37:50085/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.24", 东方卫视
-http://36.32.174.67:60080/newlive/live/hls/24/live.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.23", 东方卫视
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="2.12", 东方卫视
+http://38.75.136.137:98/gslb/dsdqpub/dfwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.81", 东方卫视
+https://iptv.catvod.com/live.php?id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.67", 东方卫视
+http://69.30.246.194/live/dfws.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.55", 东方卫视
+http://tvlist.top/jd/index.php?id=dfws&qt=183.224.122.114:8014
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.14", 东方卫视
 http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="2.2", 重庆卫视
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.13", 东方卫视
+http://112.123.243.37:50085/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.09", 东方卫视
+https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="2.66", 重庆卫视
+http://38.75.136.137:98/gslb/dsdqpub/cqxw.m3u8?auth=testpub
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.8700000047683716", 重庆卫视
+http://60.16.0.216:5757/hls/36/index.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.78", 重庆卫视
+http://183.64.181.25:40023/rongchang01.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.58", 重庆卫视
 http://23.237.228.134/live6/chongqing.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="2.06", 重庆卫视
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.57", 重庆卫视
 http://tvlist.top/jd/index.php?id=cqws&qt=183.224.122.114:8014
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.59", 重庆卫视
-http://btjg.net:809/hls/54/index.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.41", 重庆卫视
-https://iptv.catvod.com/live.php?id=%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.29", 重庆卫视
-http://222.169.85.8:9901/tsfile/live/0142_1.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.22", 重庆卫视
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.49", 重庆卫视
 http://112.27.235.94:8000/hls/36/index.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="0.9599999785423279", 重庆卫视
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.45", 重庆卫视
+https://iptv.catvod.com/live.php?id=%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.11", 重庆卫视
 http://tvlist.top/jd/index.php?id=live1041&qt=tkmark.direct.quickconnect.to:8014
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="6.03", 东南卫视
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="4.98", 东南卫视
 https://vdse.bdstatic.com//b6295e9776c2cd347716fc2447e27fac.mp4
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="3.04", 东南卫视
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/dongnanws/51/20230724/index.m3u8?msisdn=20260117122611100de3d44276483aaa155faa21cc6da7&mdspid=&spid=600717&netType=4&sid=5910022182&pid=2028597139&timestamp=20260117122611&Channel_ID=0116_2600001300-99000-201600010012152&ProgramID=849116810&ParentNodeID=-99&assertID=5910022182&client_ip=163.125.249.101&SecurityKey=20260117122611&promotionId=&mvid=5900006229&mcid=500020&playurlVersion=WX-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=6e244cee78a951d087993f7299f66e14
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="2.61", 东南卫视
-https://iptv.catvod.com/live.php?id=%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.77", 东南卫视
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="3.08", 东南卫视
+https://hlsbkmgsplive.miguvideo.com/migu/kailu/dongnanws/51/20230724/01.m3u8?&HlsSubType=&encrypt=
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="2.890000104904175", 东南卫视
 http://tvlist.top/jd/index.php?id=dnws&qt=183.224.122.114:8014
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.4", 东南卫视
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.52", 东南卫视
+https://iptv.catvod.com/live.php?id=%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.45", 东南卫视
 http://23.237.228.134/live8/gansu.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="2.46", 河北卫视
-http://23.237.228.134/live8/hebei.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="https://logo.catvod.com/%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86.png" download-speed="1.8", 河北卫视
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.18", 东南卫视
+https://my5353.com/FtbXAe
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="0.961", 东南卫视
+http://112.27.235.94:8000/hls/38/index.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="3.87", 河北卫视
+https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8?zhebd
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="2.759999990463257", 河北卫视
+http://120.76.248.139/live/bfgd/4200000108.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="2.15", 河北卫视
+https://ls.qingting.fm/live/1650/64k.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="2.08", 河北卫视
+http://ls.qingting.fm/live/1650.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="https://logo.catvod.com/%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86.png" download-speed="1.9", 河北卫视
 https://iptv.catvod.com/live.php?id=%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.5499999523162842", 河北卫视
-http://tvlist.top/jd/index.php?id=hebeiws&qt=183.224.122.114:8014
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.1", 河北卫视
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.69", 河北卫视
+http://btjg.net:809/hls/45/index.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.6", 河北卫视
 http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.1", 河北卫视
-https://event.pull.hebtv.com:443/live/live101.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.04", 河北卫视
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.4", 河北卫视
+http://23.237.228.134/live8/hebei.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.34", 河北卫视
+https://radio.pull.hebtv.com/live/hebnczx.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.13", 河北卫视
+http://tvlist.top/jd/index.php?id=hebeiws&qt=183.224.122.114:8014
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="0.965", 河北卫视
 http://112.27.235.94:8000/hls/39/index.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="3.28", 山西卫视
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="2.63", 山西卫视
 http://38.75.136.137:98/gslb/dsdqpub/sxwshd.m3u8?auth=testpub
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="2.79", 山西卫视
-http://tvlist.top/jd/index.php?id=sxws&qt=183.224.122.114:8014
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="2.71", 山西卫视
-http://23.237.228.134/live8/shanxi.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="2.43", 山西卫视
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="2.26", 山西卫视
 https://gcalic.v.myalicdn.com/gc/hsxhdxg_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.75", 山西卫视
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.57", 山西卫视
+https://my5353.com/vh5ArK
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.57", 山西卫视
+http://23.237.228.134/live8/shanxi.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.38", 山西卫视
 https://iptv.catvod.com/live.php?id=%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.72", 山西卫视
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.34", 山西卫视
 http://119.39.9.8:9901/tsfile/live/0118_1.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="3.319999933242798", 辽宁卫视
-http://120.76.248.139/live/bfgd/4200000077.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="3.01", 辽宁卫视
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/liaoningwshd/2000/index.m3u8?msisdn=20260117111430420c929e07694cb08a0acd98a75fb88e&mdspid=&spid=600572&netType=4&sid=5910022198&pid=2028597139&timestamp=20260117111430&Channel_ID=0116_2600001300-99000-201600010012122&ProgramID=630291707&ParentNodeID=-99&assertID=5910022198&client_ip=113.6.228.7&SecurityKey=20260117111430&promotionId=&mvid=5101043014&mcid=500020&playurlVersion=WX-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=8541b76c71dffca95c37a27d39c38145
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="2.88", 辽宁卫视
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.06", 山西卫视
+http://tvlist.top/jd/index.php?id=sxws&qt=183.224.122.114:8014
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="0.9300000071525574", 山西卫视
+http://60.16.0.216:5757/hls/39/index.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="3.03", 辽宁卫视
 http://38.75.136.137:98/gslb/dsdqpub/lnwshd.m3u8?auth=testpub
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.71", 辽宁卫视
-http://23.237.228.134/live8/liaoning.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.54", 辽宁卫视
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="2.17", 辽宁卫视
+https://ls.qingting.fm/live/1099/64k.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="2.059999942779541", 辽宁卫视
 http://tvlist.top/jd/index.php?id=lnws&qt=183.224.122.114:8014
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.24", 辽宁卫视
-http://120.76.248.139/live/bfgd/4200000071.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="0.914", 辽宁卫视
-http://61.156.228.12:8154/tsfile/live/0121_1.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="4.210000038146973", 吉林卫视
-http://120.76.248.139/live/bfgd/4200000097.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="2.99", 吉林卫视
-http://hlsztemgsplive.miguvideo.com:8080/envivo_v/2018/SD/jilin/1000/index.m3u8?msisdn=202601171115335abf1192f12b4e2d85173ee97803c991&mdspid=&spid=600633&netType=4&sid=5910022164&pid=2028597139&timestamp=20260117111533&Channel_ID=0116_2600001300-99000-201600010012124&ProgramID=947472500&ParentNodeID=-99&assertID=5910022164&client_ip=113.6.228.6&SecurityKey=20260117111533&promotionId=&mvid=5900004357&mcid=500020&playurlVersion=WX-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=0a7b07e84cf999402232f4d8c7feed7e
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.93", 吉林卫视
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.27", 辽宁卫视
+https://iptv.catvod.com/live.php?id=%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.059999942779541", 辽宁卫视
+http://23.237.228.134/live8/liaoning.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="2.05", 吉林卫视
 http://23.237.228.134/live8/jilin.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.93", 吉林卫视
-https://iptv.catvod.com/live.php?id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.54", 吉林卫视
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.42", 吉林卫视
 http://cssbyd.imwork.net:8082/hls/41/index.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.46", 吉林卫视
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.39", 吉林卫视
+https://iptv.catvod.com/live.php?id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.2", 吉林卫视
 http://38.75.136.137:98/gslb/dsdqpub/jlwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.19", 吉林卫视
+https://satellitepull.cnr.cn/live/wxjlxcgb/playlist.m3u8
 #EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.08", 吉林卫视
 http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.66", 延边卫视
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="0.987", 吉林卫视
+http://tvlist.top/jd/index.php?id=jlws&qt=183.224.122.114:8014
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="2.6", 延边卫视
 http://stream5.jlntv.cn/wq/playlist.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.32", 黑龙江卫视
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="2.18", 黑龙江卫视
+https://ls.qingting.fm/live/4974/64k.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="2.01", 黑龙江卫视
 http://38.75.136.137:98/gslb/dsdqpub/hljwshd.m3u8?auth=testpub
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.05", 黑龙江卫视
-http://112.27.235.94:8000/hls/48/index.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.01", 黑龙江卫视
-http://124.116.183.146:9901/tsfile/live/0143_1.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="3.09", 江苏卫视
-http://69.30.246.194/live/jsws.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="2.74", 江苏卫视
-http://tvlist.top/jd/index.php?id=jsws&qt=183.224.122.114:8014
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="2.35", 江苏卫视
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.5299999713897705", 黑龙江卫视
+https://idclive.hljtv.com:4430/live/dushi_hd.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.37", 黑龙江卫视
+http://tvlist.top/jd/index.php?id=hljws&qt=183.224.122.114:8014
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="0.9100000262260437", 黑龙江卫视
+https://idclive.hljtv.com:4430/live/hljwy_hd.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="3.2", 江苏卫视
 http://38.75.136.137:98/gslb/dsdqca/jswshd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.73", 江苏卫视
-http://38.75.136.137:98/gslb/dsdqpub/jswshd.m3u8?auth=testpub
-#EXTINF:-1 group-title="卫视" tvg-logo="https://logo.catvod.com/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png" download-speed="1.45", 江苏卫视
+#EXTINF:-1 group-title="卫视" tvg-logo="https://logo.catvod.com/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png" download-speed="1.79", 江苏卫视
 https://iptv.catvod.com/live.php?id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.36", 江苏卫视
-http://27.41.245.32:801/hls/42/index.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.12", 江苏卫视
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.58", 江苏卫视
+http://38.75.136.137:98/gslb/dsdqpub/jswshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.47", 江苏卫视
+http://69.30.246.194/live/jsws.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.11", 江苏卫视
 http://112.27.235.94:8000/hls/32/index.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="3.34", 浙江卫视
-http://38.75.136.137:98/gslb/dsdqca/zjwshd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="3.27", 浙江卫视
-http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="3.19", 浙江卫视
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.11", 江苏卫视
+http://tvlist.top/jd/index.php?id=jsws&qt=183.224.122.114:8014
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="3.12", 浙江卫视
 https://play-qukan.cztv.com/live/1746687519046362.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="2.49", 浙江卫视
-http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="2.25", 浙江卫视
-http://69.30.246.194/live/zjws.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.6", 浙江卫视
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="2.67", 浙江卫视
+http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="2.28", 浙江卫视
 http://23.237.228.134/live6/zhejiang.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="https://logo.catvod.com/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png" download-speed="1.47", 浙江卫视
-https://iptv.catvod.com/live.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="2.9800000190734863", 安徽卫视
-http://tvlist.top/jd/index.php?id=ahws&qt=183.224.122.114:8014
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="2.25", 安徽卫视
-https://iptv.catvod.com/live.php?id=%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="2.13", 安徽卫视
-http://23.237.228.134/live8/anhui.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.91", 安徽卫视
-http://38.75.136.137:98/gslb/dsdqpub/ahwshd.m3u8?auth=testpub
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.47", 安徽卫视
-http://222.214.208.34:59901/tsfile/live/0130_1.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.46", 安徽卫视
-http://111.221.137.234:44330/tsfile/live/0120_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.1", 安徽卫视
-http://124.116.183.146:9901/tsfile/live/0130_1.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="3.56", 厦门卫视
-http://38.75.136.137:98/gslb/dsdqpub/xmws.m3u8?auth=testpub
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="2.9", 江西卫视
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/jxwshd/51/20190820/index.m3u8?msisdn=20260117111635f3217ddc61ec432cbf75c81a9cb9c7a7&mdspid=&spid=600633&netType=4&sid=5910021492&pid=2028597139&timestamp=20260117111635&Channel_ID=0116_2600001300-99000-201600010012126&ProgramID=783847495&ParentNodeID=-99&assertID=5910021492&client_ip=125.211.195.21&SecurityKey=20260117111635&promotionId=&mvid=5900004351&mcid=500020&playurlVersion=WX-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=ba069d04603639c89345020e93f23b3d
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.85", 江西卫视
-https://iptv.catvod.com/live.php?id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.51", 江西卫视
-http://23.237.228.134/live8/jiangxi.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.5", 江西卫视
-http://183.215.134.239:19901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.17", 江西卫视
-http://112.27.235.94:8000/hls/44/index.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="0.9599999785423279", 江西卫视
-http://tvlist.top/jd/index.php?id=jxws&qt=183.224.122.114:8014
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="3.2", 山东卫视
-http://38.75.136.137:98/gslb/dsdqpub/sdwshd.m3u8?auth=testpub
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="2.569999933242798", 山东卫视
-https://iptv.catvod.com/live.php?id=%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="2.26", 山东卫视
-http://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.72", 山东卫视
-http://tvlist.top/jd/index.php?id=sdws&qt=183.224.122.114:8014
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.28", 山东卫视
-http://btjg.net:809/hls/37/index.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="3.03", 河南卫视
-http://tvpull.dxhmt.cn:9081/tv/11425-1.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="2.72", 河南卫视
-http://tvlist.top/jd/index.php?id=hnws&qt=183.224.122.114:8014
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.11", 河南卫视
-http://1.94.31.214/php/hntv.php?id=hnws
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.08", 河南卫视
-http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="0.955", 河南卫视
-http://112.27.235.94:8000/hls/37/index.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="2.98", 湖北卫视
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/hubeiwshd/2000/index.m3u8?msisdn=20260117111604c7eaa8540f6a474e8790723a693d838f&mdspid=&spid=600633&netType=4&sid=5910022163&pid=2028597139&timestamp=20260117111604&Channel_ID=0116_2600001300-99000-201600010012125&ProgramID=947472496&ParentNodeID=-99&assertID=5910022163&client_ip=113.6.228.2&SecurityKey=20260117111604&promotionId=&mvid=5900004355&mcid=500020&playurlVersion=WX-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=e0a44541732d00b677ead8637995ea1f
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.63", 湖北卫视
-http://23.237.228.134/live6/hubei.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.6", 湖北卫视
-https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.39", 湖北卫视
-http://tvlist.top/jd/index.php?id=hbws&qt=183.224.122.114:8014
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.22", 湖北卫视
-http://61.156.228.12:8154/tsfile/live/0132_1.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.11", 湖北卫视
-http://btjg.net:809/hls/31/index.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="3.53", 湖南卫视
-http://38.75.136.137:98/gslb/dsdqbv/hnwshd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="3.3", 湖南卫视
-http://69.30.246.194/live/hnws.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="3.14", 湖南卫视
-http://38.75.136.137:98/gslb/dsdqca/hnwshd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.86", 湖南卫视
-https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.79", 湖南卫视
-http://tvlist.top/jd/index.php?id=hunanws&qt=183.224.122.114:8014
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.5", 湖南卫视
-http://61.163.181.78:85/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.4", 湖南卫视
-http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.3", 湖南卫视
-http://23.237.228.134/live6/hunan.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.15", 湖南卫视
-http://dodge.lwfz.fun:8800/rtp/239.16.20.72:10720
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.11", 湖南卫视
-http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.1", 湖南卫视
-http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="2.96", 广东卫视
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/gdwshd265/54/20200407/index.m3u8?msisdn=20260117122711a6cced1433c146efaf11d3edc845d5a6&mdspid=&spid=699054&netType=4&sid=2202428795&pid=2028597139&timestamp=20260117122711&Channel_ID=0116_2600001300-99000-201600010012152&ProgramID=608831231&ParentNodeID=-99&assertID=2202428795&client_ip=182.120.177.169&SecurityKey=20260117122711&promotionId=&mvid=2202428795&mcid=500020&playurlVersion=WX-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=0079db798283f5a08c4add5a775a2327
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="2.04", 广东卫视
-http://23.237.228.134/live6/guangdong.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.82", 广东卫视
-http://183.215.134.239:19901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视" tvg-logo="https://gcore.jsdelivr.net/gh/sparkssssssssss/epg/logo/%E5%B9%BF%E4%B8%9C%E7%A7%BB%E5%8A%A8.png" download-speed="1.61", 广东卫视
-https://hk.188766.xyz/?migutoken=6d14daf08784fc0f2e2b0ac4eaf4e44b&id=gd_gdyd&type=sz
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.48", 广东卫视
-http://btjg.net:809/hls/32/index.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.46", 广东卫视
-https://iptv.catvod.com/live.php?id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.44", 广东卫视
-http://38.75.136.137:98/gslb/dsdqpub/gdwshd.m3u8?auth=testpub
-#EXTINF:-1 group-title="卫视" tvg-logo="https://gcore.jsdelivr.net/gh/sparkssssssssss/epg/logo/%E5%B9%BF%E4%B8%9C%E7%94%9F%E6%B4%BBA.png" download-speed="1.39", 广东卫视
-https://hk.188766.xyz/?migutoken=b8e0473f8b8ef0345d6431bf6360b8d9&id=gd_gdsh&type=sz
-#EXTINF:-1 group-title="卫视" tvg-logo="https://gcore.jsdelivr.net/gh/sparkssssssssss/epg/logo/%E5%B9%BF%E4%B8%9C%E6%96%B0%E9%97%BB.png" download-speed="1.36", 广东卫视
-https://hk.188766.xyz/?migutoken=b166f77239bda2228ee6f471c6f5b0cc&id=gd_gdxw&type=sz
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="3.51", 深圳卫视
-http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="2.66", 深圳卫视
-http://yncbn.ks-cdn.gitv.tv/gitv_live/G_SHENZHEN-HQ/G_SHENZHEN-HQ.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.91", 深圳卫视
-https://iptv.catvod.com/live.php?id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.75", 深圳卫视
-http://23.237.228.134/live6/shenzhen.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.48", 深圳卫视
-http://183.215.134.239:19901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.08", 深圳卫视
-http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="0.962", 深圳卫视
-http://112.27.235.94:8000/hls/33/index.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="3.42", 海南卫视
-http://nn.7x9d.cn/地方台8563/海南.php?id=hnws
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="2.61", 海南卫视
-http://36.32.174.67:60080/newlive/live/hls/46/live.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.57", 海南卫视
-https://iptv.catvod.com/live.php?id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.51", 海南卫视
-http://nn.7x9d.cn/地方台8563/海南.php?id=hnws&?key=txiptv
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="3.75", 三沙卫视
-http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="2.890000104904175", 四川卫视
-http://tvlist.top/jd/index.php?id=scws&qt=183.224.122.114:8014
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.43", 四川卫视
-https://iptv.catvod.com/live.php?id=%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.24", 四川卫视
-http://btjg.net:809/hls/48/index.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.1", 四川卫视
-http://satellitepull.cnr.cn/live/wxscws/playlist.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.07", 四川卫视
-http://tvlist.top/jd/index.php?id=live4468&qt=183.224.122.114:8014
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="0.977", 四川卫视
-http://112.27.235.94:8000/hls/35/index.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.75", 贵州卫视
-http://tvlist.top/jd/index.php?id=gzws&qt=183.224.122.114:8014
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.64", 贵州卫视
-http://btjg.net:809/hls/34/index.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.53", 贵州卫视
-http://23.237.228.134/live6/hainan.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.44", 贵州卫视
-http://112.27.235.94:8000/hls/46/index.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.39", 贵州卫视
-https://iptv.catvod.com/live.php?id=%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="2.61", 云南卫视
-http://36.32.174.67:60080/newlive/live/hls/45/live.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="2.319999933242798", 云南卫视
-http://tvlist.top/jd/index.php?id=ynws&qt=183.224.122.114:8014
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.8", 云南卫视
-http://23.237.228.134/live8/yunnan.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.56", 云南卫视
-https://iptv.catvod.com/live.php?id=%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.55", 云南卫视
-http://cssbyd.imwork.net:8082/hls/36/index.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.5", 云南卫视
-http://120.211.62.180:8000/hls/39/index.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.03", 云南卫视
-http://112.27.235.94:8000/hls/40/index.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="2.0", 陕西卫视
-http://23.237.228.134/live6/sichuan.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.64", 陕西卫视
-http://112.46.105.20:8009/hls/18/index.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.48", 陕西卫视
-http://153.0.171.163:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.48", 陕西卫视
-http://117.36.76.86:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.47", 陕西卫视
-http://112.46.105.20:8009/hls/20/index.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.29", 陕西卫视
-http://222.169.85.8:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="4.309999942779541", 甘肃卫视
-http://tvlist.top/jd/index.php?id=gsws&qt=183.224.122.114:8014
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="2.930000066757202", 甘肃卫视
-http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.89", 甘肃卫视
-https://iptv.catvod.com/live.php?id=%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.88", 甘肃卫视
-http://38.75.136.137:98/gslb/dsdqpub/gswshd.m3u8?auth=testpub
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="3.630000114440918", 青海卫视
-http://tvlist.top/jd/index.php?id=qhws&qt=183.224.122.114:8014
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="3.04", 青海卫视
-http://38.75.136.137:98/gslb/dsdqpub/qhws.m3u8?auth=testpub
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.46", 青海卫视
-https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqing
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.31", 青海卫视
-http://23.237.228.134/live8/qinghai.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.21", 青海卫视
-https://iptv.catvod.com/live.php?id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="4.630000114440918", 内蒙古卫视
-http://tvlist.top/jd/index.php?id=neimenggu&qt=183.224.122.114:8014
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="2.08", 内蒙古卫视
-http://23.237.228.134/live8/neimenggu.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.94", 内蒙古卫视
-http://cssbyd.imwork.net:8082/hls/44/index.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.58", 内蒙古卫视
-https://iptv.catvod.com/live.php?id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86
-#EXTINF:-1 group-title="卫视" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/%E5%86%85%E8%92%99%E5%8F%A4%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.png" download-speed="1.51", 内蒙古卫视
-http://play1-qk.nmtv.cn/live/1686560423879174.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/%E5%86%85%E8%92%99%E5%8F%A4%E8%92%99%E8%AF%AD%E5%8D%AB%E8%A7%86.png" download-speed="1.44", 内蒙古卫视
-http://play1-qk.nmtv.cn/live/1686560387346365.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="3.5", 广西卫视
-https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="3.4000000953674316", 广西卫视
-https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="2.13", 广西卫视
-http://tvlist.top/jd/index.php?id=gxws&qt=183.224.122.114:8014
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.83", 广西卫视
-http://23.237.228.134/live6/guangxi.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.56", 广西卫视
-http://23.237.228.134/live6/guizhou.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.32", 广西卫视
-https://iptv.catvod.com/live.php?id=%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.2300000190734863", 广西卫视
-http://113.15.109.216:59901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="2.72", 西藏卫视
-http://tvlist.top/jd/index.php?id=xzws&qt=183.224.122.114:8014
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.56", 西藏卫视
-http://36.32.174.67:60080/newlive/live/hls/48/live.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.47", 西藏卫视
-https://iptv.catvod.com/live.php?id=%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.3", 西藏卫视
-http://cssbyd.imwork.net:8082/hls/46/index.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.3", 西藏卫视
-http://php.jdshipin.com:8880/xztv.php?id=ws
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.21", 西藏卫视
-http://php.jdshipin.com/xztv.php?id=ws
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="2.35", 宁夏卫视
-http://38.75.136.137:98/gslb/dsdqpub/nxws.m3u8?auth=testpub
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.86", 宁夏卫视
-http://36.32.174.67:60080/newlive/live/hls/49/live.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.46", 宁夏卫视
-https://iptv.catvod.com/live.php?id=%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.11", 宁夏卫视
-http://tvlist.top/jd/index.php?id=linxws&qt=183.224.122.114:8014
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="3.54", 新疆卫视
-http://38.75.136.137:98/gslb/dsdqpub/xjws.m3u8?auth=testpub
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="2.39", 新疆卫视
-https://iptv.catvod.com/live.php?id=%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.34", 新疆卫视
-http://tvlist.top/jd/index.php?id=xjws&qt=183.224.122.114:8014
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="2.92", 兵团卫视
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/btws/51/20250804/index.m3u8?msisdn=202601171115023311ab92f81d47878d5ae776e56e602d&mdspid=&spid=600697&netType=4&sid=5910022192&pid=2028597139&timestamp=20260117111502&Channel_ID=0116_2600001300-99000-201600010012123&ProgramID=956923145&ParentNodeID=-99&assertID=5910022192&client_ip=113.6.228.6&SecurityKey=20260117111502&promotionId=&mvid=5900006716&mcid=500020&playurlVersion=WX-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=10fa366a85cf7262df58c5d918fb051c
-#EXTINF:-1 group-title="卫视" tvg-logo="https://logo.catvod.com/%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86.png" download-speed="1.94", 兵团卫视
-https://iptv.catvod.com/live.php?id=%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="2.98", 海峡卫视
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/haixiaws/51/20230724/index.m3u8?msisdn=2026011711293306d50b6b97ca410db2a3fc95428b40fc&mdspid=&spid=600717&netType=4&sid=5910022183&pid=2028597139&timestamp=20260117112933&Channel_ID=0116_2600001300-99000-201600010012151&ProgramID=849119120&ParentNodeID=-99&assertID=5910022183&client_ip=182.120.177.239&SecurityKey=20260117112933&promotionId=&mvid=5900006231&mcid=500020&playurlVersion=WX-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=b2c3ea331909f0c2f07c72f53101057e
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="0.958", 海峡卫视
-http://38.64.72.148:80/hls/modn/list/4009/playlist.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.51", 农林卫视
-http://124.116.183.146:9901/tsfile/live/1004_1.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.23", 农林卫视
-http://gxlive.snrtv.com/nlws-SD.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.82", 亚洲联合卫视
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.75", 亚洲联合卫视
-http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.7", 亚洲联合卫视
-http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="9.73", 香港卫视
-http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.22", 人间卫视
-http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
-#EXTINF:-1 group-title="浙江" tvg-logo="" download-speed="1.56", 浙江新闻
-http://ali-xwl.cztv.com/live/channel07720Plxw.m3u8
-#EXTINF:-1 group-title="浙江" tvg-logo="" download-speed="3.43", 浙江新闻
-http://ali-xwl.cztv.com/live/channel071080Plxw.m3u8
-#EXTINF:-1 group-title="浙江" tvg-logo="" download-speed="2.64", 浙江少儿
-http://ali-xwl.cztv.com/live/channel08720Plxw.m3u8
-#EXTINF:-1 group-title="浙江" tvg-logo="" download-speed="3.5", 浙江少儿
-http://ali-xwl.cztv.com/live/channel081080Plxw.m3u8
-#EXTINF:-1 group-title="浙江" tvg-logo="" download-speed="3.44", 浙江钱江都市
-http://ali-xwl.cztv.com/live/channel021080Plxw.m3u8
-#EXTINF:-1 group-title="浙江" tvg-logo="" download-speed="1.62", 浙江钱江都市
-http://ali-xwl.cztv.com/live/channel02720Plxw.m3u8
-#EXTINF:-1 group-title="浙江" tvg-logo="" download-speed="3.57", 浙江民生休闲
-http://ali-xwl.cztv.com/live/channel061080Plxw.m3u8
-#EXTINF:-1 group-title="浙江" tvg-logo="" download-speed="1.62", 浙江民生休闲
-http://ali-xwl.cztv.com/live/channel06720Plxw.m3u8
-#EXTINF:-1 group-title="浙江" tvg-logo="" download-speed="2.13", 浙江经济生活
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="2.259999990463257", 浙江卫视
+https://bd-xwl.cztv.com/live/channel4k2160p.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="2.17", 浙江卫视
+http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="2.11", 浙江卫视
 http://ls.qingting.fm/live/1099.m3u8
-#EXTINF:-1 group-title="浙江" tvg-logo="" download-speed="3.28", 浙江经济生活
-http://ali-xwl.cztv.com/live/channel031080Plxw.m3u8
-#EXTINF:-1 group-title="浙江" tvg-logo="" download-speed="1.41", 浙江经济生活
-http://ali-xwl.cztv.com/live/channel03720Plxw.m3u8
-#EXTINF:-1 group-title="浙江" tvg-logo="" download-speed="1.41", 浙江教科影视
-http://ali-xwl.cztv.com/live/channel04720Plxw.m3u8
-#EXTINF:-1 group-title="浙江" tvg-logo="" download-speed="3.2", 浙江教科影视
-http://ali-xwl.cztv.com/live/channel041080Plxw.m3u8
-#EXTINF:-1 group-title="浙江" tvg-logo="" download-speed="3.36", 浙江国际
-http://ali-xwl.cztv.com/live/channel101080Plxw.m3u8
-#EXTINF:-1 group-title="河南" tvg-logo="" download-speed="1.13", 河南民生
-http://www.lwfz.fun:8800/rtp/239.16.20.165:11650
-#EXTINF:-1 group-title="河南" tvg-logo="" download-speed="1.04", 河南都市
-http://1.94.31.214/php/hntv.php?id=hnds
-#EXTINF:-1 group-title="河南" tvg-logo="" download-speed="1.16", 河南都市
-http://www.lwfz.fun:8800/rtp/239.16.20.164:11640
-#EXTINF:-1 group-title="河南" tvg-logo="" download-speed="2.94", 固始综合频道
-http://tvpull.dxhmt.cn:9081/tv/11525-1.m3u8
-#EXTINF:-1 group-title="河南" tvg-logo="" download-speed="2.99", 固始综合频道
-http://tvpull.dxhmt.cn:9081/tv/11525-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
-#EXTINF:-1 group-title="河南" tvg-logo="" download-speed="2.99", 潢川综合频道
-http://tvpull.dxhmt.cn:9081/tv/11526-1.m3u8
-#EXTINF:-1 group-title="河南" tvg-logo="" download-speed="2.77", 潢川综合
-http://tvpull.dxhmt.cn:9081/tv/11526-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
-#EXTINF:-1 group-title="河南" tvg-logo="" download-speed="1.45", 淮滨综合频道
-http://live.dxhmt.cn:9081/tv/11527-1.m3u8
-#EXTINF:-1 group-title="河南" tvg-logo="" download-speed="2.86", 淮滨综合频道
-http://tvpull.dxhmt.cn:9081/tv/11527-1.m3u8
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="2.559999942779541", 凤凰香港
-https://live.catvod.com/iptv.php?id=fhhk01
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="4.230000019073486", 凤凰香港
-https://mgev.188766.xyz/?migutoken=5e6e1e853d723afa1717151061309e04&id=hk_fhhk&type=dy
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="4.829999923706055", 凤凰香港
-http://cdn6.163189.xyz/163189/fhhk
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="2.130000114440918", 凤凰香港
-http://r.jdshipin.com/yDoTN
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.2200000286102295", 凤凰香港
-http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.559999942779541", 凤凰香港
-https://cdn6.101.qzz.io/163189/fhhk
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.07", 凤凰香港
-https://mgev.188766.xyz/?migutoken=40fa6c0ba9aebd84e02b7a2c1730f455&id=fhhk&pp=1
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="4.070000171661377", 凤凰香港
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86%E9%A6%99%E6%B8%AF%E5%8F%B0.png" download-speed="1.06", 凤凰香港
-https://mgev.188766.xyz/?migutoken=fc0d639e3b6a2e99979da1c8698cfb90&id=fhhk&pp=1
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="4.289999961853027", 凤凰香港
-https://mgev.188766.xyz/?migutoken=b93b8ad2def6de61f60a012b2ef9cf88&id=hk_fhhk&type=dy
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.559999942779541", TVB亚洲武侠
-http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.3600000143051147", TVB星河
-https://mgev.188766.xyz/?migutoken=be6a4a9d141a01e2cbf32d170c0d7782&id=hk_tvbxh&type=dy
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.3799999952316284", TVB星河
-http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.6200000047683716", TVB明珠台
-http://php.jdshipin.com/TVOD/iptv.php?id=mzt
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.7100000381469727", TVB功夫
-https://mgev.188766.xyz/?migutoken=22b25fbc6688f6a14ac628767437f56e&id=hk_yzwx&type=dy
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.51", TVBS亚洲
-http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.52", TVBS亚洲
-http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="2.700000047683716", TVB Plus
-https://mgev.188766.xyz/?migutoken=2b4128b6791da85c1daa9377c38b7513&id=hk_tvbp&type=dy
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.37", TVB Plus
-http://php.jdshipin.com:8880/smt.php?id=j2_twn
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.909999966621399", 凤凰资讯
-http://cdn6.163189.xyz/163189/fhzx
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="2.049999952316284", 凤凰资讯
-http://r.jdshipin.com/0Rp07
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.8799999952316284", 凤凰资讯
-https://mgev.188766.xyz/?migutoken=24cd07d564a889ac2b4b11883e0c3710&id=hk_fhzx&type=dy
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.840000033378601", 凤凰资讯
-https://cdn6.101.qzz.io/163189/fhzx
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.39", 凤凰资讯
-http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.09", 凤凰资讯
-https://mgev.188766.xyz/?migutoken=1f2a8c13256a5c1d8538242a512ad64f&id=fhzx&pp=1
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="2.8299999237060547", 凤凰资讯
-http://php.jdshipin.com/PLTV/iptv.php?id=fhzx
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="5.25", 凤凰资讯
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="4.389999866485596", 凤凰资讯
-http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="2.5799999237060547", 凤凰资讯
-https://live.catvod.com/iptv.php?id=phzx01
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="2.6500000953674316", 凤凰资讯
-https://mgev.188766.xyz/?migutoken=a988a1edd8b3da91941defb02e81e90e&id=hk_fhzx&type=dy
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86%E8%B5%84%E8%AE%AF%E5%8F%B0.png" download-speed="1.13", 凤凰资讯
-https://mgev.188766.xyz/?migutoken=5c43a0d1e43087922db704bcc8b99b3c&id=fhzx&pp=1
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.940000057220459", 凤凰中文
-http://cdn6.163189.xyz/163189/fhzw
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="2.0799999237060547", 凤凰中文
-https://live.catvod.com/iptv.php?id=phzw01
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.06", 凤凰中文
-https://mgev.188766.xyz/?migutoken=d2cb1d3b27ceb7f566c0b20cbf3dbca7&id=fhzw&pp=1
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.9800000190734863", 凤凰中文
-https://cdn6.101.qzz.io/163189/fhzw
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.18", 凤凰中文
-http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="4.46999979019165", 凤凰中文
-http://php.jdshipin.com/PLTV/iptv.php?id=fhzw
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="5.409999847412109", 凤凰中文
-http://r.jdshipin.com/cCCzW
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="5.079999923706055", 凤凰中文
-http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86%E4%B8%AD%E6%96%87%E5%8F%B0.png" download-speed="1.08", 凤凰中文
-https://mgev.188766.xyz/?migutoken=9563c9a5656d7951ce05a39824a49e5c&id=fhzw&pp=1
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="2.640000104904175", 凤凰中文
-https://mgev.188766.xyz/?migutoken=692a3536ed3720d0520cfc1ec0542a71&id=hk_fhzw&type=dy
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="8.55", 凤凰卫视
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.91", 浙江卫视
+http://38.75.136.137:98/gslb/dsdqca/zjwshd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.87", 浙江卫视
+http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.809999942779541", 浙江卫视
+http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8?zzhed
+#EXTINF:-1 group-title="卫视" tvg-logo="https://logo.catvod.com/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png" download-speed="1.6", 浙江卫视
+https://iptv.catvod.com/live.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.53", 浙江卫视
+http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.16", 浙江卫视
+http://69.30.246.194/live/zjws.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="0.968", 浙江卫视
+http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8$浙江广电
+#EXTINF:-1 group-title="卫视" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/%E6%B5%99%E6%B1%9F%E5%9B%BD%E9%99%85.png" download-speed="0.935", 浙江卫视
+https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="0.699999988079071", 浙江卫视
+http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.67", 安徽卫视
+http://222.214.208.34:59901/tsfile/live/0130_1.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.6", 安徽卫视
+http://38.75.136.137:98/gslb/dsdqpub/ahwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.53", 安徽卫视
+http://btjg.net:809/hls/42/index.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.49", 安徽卫视
+https://iptv.catvod.com/live.php?id=%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.22", 安徽卫视
+http://23.237.228.134/live8/anhui.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.11", 安徽卫视
+http://dspdhls.appcoo.com:8888/live/dspd/index.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="0.8700000047683716", 安徽卫视
+http://sun135790.x3322.net:9901/tsfile/live/16042_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="3.41", 厦门卫视
+http://38.75.136.137:98/gslb/dsdqpub/xmws.m3u8?auth=testpub
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.350000023841858", 厦门卫视
+http://tvlist.top/jd/index.php?id=xmws&qt=183.224.122.114:8014
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.08", 厦门卫视
+http://satellitepull.cnr.cn/live/wx32fjdnjjgb/playlist.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.05", 厦门卫视
+http://satellitepull.cnr.cn/live/wx32fjxwgb/playlist.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.34", 江西卫视
+https://iptv.catvod.com/live.php?id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.09", 江西卫视
+http://23.237.228.134/live8/jiangxi.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="2.17", 山东卫视
+http://tvlist.top/jd/index.php?id=sdws&qt=183.224.122.114:8014
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="2.13", 山东卫视
+http://ls.qingting.fm/live/60180.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="2.1", 山东卫视
+http://ls.qingting.fm/live/60260.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.94", 山东卫视
+http://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.64", 山东卫视
+http://38.75.136.137:98/gslb/dsdqpub/sdwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.61", 山东卫视
+https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.51", 山东卫视
+https://hlsbkmgsplive.miguvideo.com/wd_r4/yg/shandongwshd/3000/01.m3u8?&HlsSubType=&encrypt=
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="0.933", 山东卫视
+http://112.27.235.94:8000/hls/34/index.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="0.6899999976158142", 山东卫视
+https://iptv.catvod.com/live.php?id=%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="2.12", 河南卫视
+http://tvpull.dxhmt.cn:9081/tv/11425-1.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.2200000286102295", 河南卫视
+http://tvlist.top/jd/index.php?id=hnws&qt=183.224.122.114:8014
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.1", 河南卫视
+http://1.94.31.214/php/hntv.php?id=hnws
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.09", 河南卫视
+http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="0.8899999856948853", 河南卫视
+https://iptv.catvod.com/live.php?id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.84", 湖北卫视
+http://23.237.228.134/live6/hubei.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.53", 湖北卫视
+https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.27", 湖北卫视
+http://tvlist.top/jd/index.php?id=hbws&qt=183.224.122.114:8014
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="4.349999904632568", 湖南卫视
+http://tvlist.top/jd/index.php?id=hunanws&qt=183.224.122.114:8014
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="3.35", 湖南卫视
+http://69.30.246.194/live/hnws.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.66", 湖南卫视
+http://38.75.136.137:98/gslb/dsdqbv/hnwshd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.6", 湖南卫视
+https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.48", 湖南卫视
+http://38.75.136.137:98/gslb/dsdqca/hnwshd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.43", 湖南卫视
+http://btjg.net:809/hls/47/index.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.1200000047683716", 湖南卫视
+http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.07", 湖南卫视
+http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.0199999809265137", 湖南卫视
+https://smart.dxjc.pp.ua/smart.php?id=hunan_twn&token=tmxk
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="0.959", 湖南卫视
+http://120.211.62.180:8000/hls/30/index.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="0.6700000166893005", 湖南卫视
+http://23.237.228.134/live6/hunan.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="6.18", 广东卫视
+https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.95", 广东卫视
+https://iptv.catvod.com/live.php?id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.659999966621399", 广东卫视
+https://hk.188766.xyz/?migutoken=4499251eec5100e04d33ca2f0b756232&id=gd_gdse&type=sz
+#EXTINF:-1 group-title="卫视" tvg-logo="https://gcore.jsdelivr.net/gh/sparkssssssssss/epg/logo/%E5%B9%BF%E4%B8%9C%E7%94%9F%E6%B4%BBA.png" download-speed="1.62", 广东卫视
+https://hk.188766.xyz/?migutoken=60169532c581d2784dec55568d6c3b07&id=gd_gdsh&type=sz
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.48", 广东卫视
+http://183.215.134.239:19901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视" tvg-logo="https://gcore.jsdelivr.net/gh/sparkssssssssss/epg/logo/%E5%B9%BF%E4%B8%9C%E7%A7%BB%E5%8A%A8.png" download-speed="1.45", 广东卫视
+https://hk.188766.xyz/?migutoken=0b43c0a824849d3006b2de1a46dab70b&id=gd_gdyd&type=sz
+#EXTINF:-1 group-title="卫视" tvg-logo="https://gcore.jsdelivr.net/gh/sparkssssssssss/epg/logo/%E5%B9%BF%E4%B8%9C%E6%B0%91%E7%94%9F.png" download-speed="1.45", 广东卫视
+https://hk.188766.xyz/?migutoken=e10e4894d4b9a3ef732137cefdf62e18&id=gd_gdms&type=sz
+#EXTINF:-1 group-title="卫视" tvg-logo="https://gcore.jsdelivr.net/gh/sparkssssssssss/epg/logo/%E5%B9%BF%E4%B8%9C%E5%BD%B1%E8%A7%86.png" download-speed="1.37", 广东卫视
+https://hk.188766.xyz/?migutoken=a9c8c7d4b81bd525e4060a4f7bf88e9e&id=gd_gdys&type=sz
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.29", 广东卫视
+http://23.237.228.134/live6/guangdong.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="https://gcore.jsdelivr.net/gh/sparkssssssssss/epg/logo/%E5%B9%BF%E4%B8%9C%E4%BD%93%E8%82%B2.png" download-speed="1.14", 广东卫视
+https://hk.188766.xyz/?migutoken=9f7625aa19bb0c19454971325b1f0355&id=gd_gdty&type=sz
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="0.998", 广东卫视
+http://sun135790.x3322.net:9901/tsfile/live/16034_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="0.956", 广东卫视
+http://116.77.33.98:44330/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="0.916", 广东卫视
+http://38.75.136.137:98/gslb/dsdqpub/gdwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="2.01", 深圳卫视
+http://23.237.228.134/live6/shenzhen.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.73", 深圳卫视
+http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.69", 深圳卫视
+http://183.215.134.239:19901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.5", 深圳卫视
+https://iptv.catvod.com/live.php?id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.23", 深圳卫视
+http://yncbn.ks-cdn.gitv.tv/gitv_live/G_SHENZHEN-HQ/G_SHENZHEN-HQ.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.18", 深圳卫视
+http://tvlist.top/jd/index.php?id=szws&qt=183.224.122.114:8014
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.01", 深圳卫视
+http://112.27.235.94:8000/hls/33/index.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="0.93", 深圳卫视
+http://222.214.208.34:59901/tsfile/live/0126_1.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="4.46", 海南卫视
+http://tvpull.dxhmt.cn:9081/tv/10200-3.m3u8?zhend
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="2.11", 海南卫视
+http://ls.qingting.fm/live/1861.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.41", 海南卫视
+http://36.32.174.67:60080/newlive/live/hls/46/live.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.32", 海南卫视
+https://iptv.catvod.com/live.php?id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.25", 海南卫视
+http://nn.7x9d.cn/地方台8563/海南.php?id=hnws
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.07", 海南卫视
+http://nn.7x9d.cn/地方台8563/海南.php?id=hnws&?key=txiptv
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.72", 三沙卫视
+http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="2.8", 四川卫视
+http://tvlist.top/jd/index.php?id=live4468&qt=183.224.122.114:8014
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="2.799999952316284", 四川卫视
+http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.940000057220459", 四川卫视
+http://tvlist.top/jd/index.php?id=scws&qt=183.224.122.114:8014
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.21", 四川卫视
+https://iptv.catvod.com/live.php?id=%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.08", 四川卫视
+http://satellitepull.cnr.cn/live/wxscws/playlist.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.04", 四川卫视
+http://60.16.0.216:5757/hls/30/index.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.0", 四川卫视
+http://btjg.net:809/hls/48/index.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="0.8899999856948853", 四川卫视
+https://smart.dxjc.pp.ua/smart.php?id=sichuan_twn&token=tmxk
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="2.369999885559082", 贵州卫视
+http://23.237.228.134/live6/hainan.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.71", 贵州卫视
+https://iptv.catvod.com/live.php?id=%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.97", 云南卫视
+http://38.75.136.137:98/gslb/dsdqpub/ynwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.88", 云南卫视
+http://23.237.228.134/live8/yunnan.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.85", 云南卫视
+http://cssbyd.imwork.net:8082/hls/36/index.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.71", 云南卫视
+http://222.169.85.8:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.52", 云南卫视
+http://111.61.236.247:9081/hls/32/index.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.38", 云南卫视
+https://hwapi.yntv.net/62hdvf/rjwt14.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.24", 云南卫视
+https://hwapi.yntv.net/62hdvf/q9vs1b.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.21", 云南卫视
+https://iptv.catvod.com/live.php?id=%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.0", 云南卫视
+http://tvlist.top/jd/index.php?id=ynws&qt=183.224.122.114:8014
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="0.929", 云南卫视
+http://36.32.174.67:60080/newlive/live/hls/45/live.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="2.140000104904175", 陕西卫视
+http://117.36.76.86:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="2.01", 陕西卫视
+http://ls.qingting.fm/live/1222.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.9700000286102295", 陕西卫视
+http://112.27.235.94:8000/hls/43/index.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.55", 陕西卫视
+http://23.237.228.134/live6/sichuan.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.02", 陕西卫视
+http://tvlist.top/jd/index.php?id=shxws&qt=183.224.122.114:8014
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.76", 甘肃卫视
+http://38.75.136.137:98/gslb/dsdqpub/gswshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.72", 甘肃卫视
+https://iptv.catvod.com/live.php?id=%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.04", 甘肃卫视
+https://satellitepull.cnr.cn/live/wxgsdstb/playlist.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.01", 甘肃卫视
+https://satellitepull.cnr.cn/live/wxgshhzs/playlist.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="3.7699999809265137", 青海卫视
+https://iptv.catvod.com/live.php?id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="3.16", 青海卫视
+http://38.75.136.137:98/gslb/dsdqpub/qhws.m3u8?auth=testpub
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="2.35", 青海卫视
+http://tvlist.top/jd/index.php?id=qhws&qt=183.224.122.114:8014
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.45", 青海卫视
+https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.36", 青海卫视
+https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqing
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.27", 青海卫视
+http://23.237.228.134/live8/qinghai.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.06", 青海卫视
+http://120.76.248.139/live/bfgd/4200000111.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="2.5", 内蒙古卫视
+http://tvlist.top/jd/index.php?id=neimenggu&qt=183.224.122.114:8014
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="2.2", 内蒙古卫视
+https://ls.qingting.fm/live/1885/64k.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/%E5%86%85%E8%92%99%E5%8F%A4%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.png" download-speed="1.72", 内蒙古卫视
+http://play1-qk.nmtv.cn/live/1686560423879174.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/%E5%86%85%E8%92%99%E5%8F%A4%E8%92%99%E8%AF%AD%E5%8D%AB%E8%A7%86.png" download-speed="1.61", 内蒙古卫视
+http://play1-qk.nmtv.cn/live/1686560387346365.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.51", 内蒙古卫视
+http://cssbyd.imwork.net:8082/hls/44/index.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.5", 内蒙古卫视
+http://23.237.228.134/live8/neimenggu.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/%E5%86%85%E8%92%99%E5%8F%A4%E5%B0%91%E5%84%BF.png" download-speed="1.49", 内蒙古卫视
+http://play1-qk.nmtv.cn/live/1686560464515368.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.47", 内蒙古卫视
+https://iptv.catvod.com/live.php?id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.42", 内蒙古卫视
+http://111.61.236.247:9081/hls/48/index.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.39", 内蒙古卫视
+http://61.156.228.12:8154/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/%E5%86%85%E8%92%99%E5%8F%A4%E8%92%99%E8%AF%AD%E6%96%87%E5%8C%96.png" download-speed="1.34", 内蒙古卫视
+http://play1-qk.nmtv.cn/live/1686561065304370.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/%E5%86%85%E8%92%99%E5%8F%A4%E6%96%87%E4%BD%93%E5%A8%B1%E4%B9%90.png" download-speed="1.28", 内蒙古卫视
+http://play1-qk.nmtv.cn/live/1686561195713372.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/%E5%86%85%E8%92%99%E5%8F%A4%E7%BB%8F%E6%B5%8E%E7%94%9F%E6%B4%BB.png" download-speed="1.17", 内蒙古卫视
+http://play1-qk.nmtv.cn/live/1686562470947181.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/%E5%86%85%E8%92%99%E5%8F%A4%E5%86%9C%E7%89%A7.png" download-speed="1.13", 内蒙古卫视
+http://play1-qk.nmtv.cn:80/live/1686561299036179.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.02", 内蒙古卫视
+http://60.16.0.216:5757/hls/41/index.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.73", 广西卫视
+http://tvlist.top/jd/index.php?id=gxws&qt=183.224.122.114:8014
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.53", 广西卫视
+http://38.75.136.137:98/gslb/dsdqpub/gxgj.m3u8?auth=testpub
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.4900000095367432", 广西卫视
+https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.45", 广西卫视
+https://iptv.catvod.com/live.php?id=%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.28", 广西卫视
+http://23.237.228.134/live6/guizhou.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.190000057220459", 广西卫视
+https://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.0299999713897705", 广西卫视
+https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.02", 广西卫视
+http://38.75.136.137:98/gslb/dsdqpub/gxxw.m3u8?auth=testpub
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="0.7599999904632568", 广西卫视
+http://23.237.228.134/live6/guangxi.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="2.08", 西藏卫视
+http://36.32.174.67:60080/newlive/live/hls/48/live.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.69", 西藏卫视
+https://iptv.catvod.com/live.php?id=%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.37", 西藏卫视
+http://php.jdshipin.com/xztv.php?id=ws
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.23", 西藏卫视
+http://php.jdshipin.com:8880/xztv.php?id=ws
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.17", 西藏卫视
+http://tvlist.top/jd/index.php?id=xzws&qt=183.224.122.114:8014
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="3.73", 宁夏卫视
+http://38.75.136.137:98/gslb/dsdqpub/nxws.m3u8?auth=testpub
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="2.200000047683716", 宁夏卫视
+http://tvlist.top/jd/index.php?id=linxws&qt=183.224.122.114:8014
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="2.15", 宁夏卫视
+https://ls.qingting.fm/live/1841/64k.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.7", 宁夏卫视
+https://iptv.catvod.com/live.php?id=%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.06", 宁夏卫视
+http://36.32.174.67:60080/newlive/live/hls/49/live.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="2.58", 新疆卫视
+http://38.75.136.137:98/gslb/dsdqpub/xjws.m3u8?auth=testpub
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="2.390000104904175", 新疆卫视
+http://tvlist.top/jd/index.php?id=xjws&qt=183.224.122.114:8014
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="2.21", 新疆卫视
+https://iptv.catvod.com/live.php?id=%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.48", 新疆卫视
+http://222.169.85.8:9901/tsfile/live/0110_1.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="2.91", 兵团卫视
+http://124.88.144.73:1935/live/xwzh/playlist.m3u8?zxinjd
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.5", 兵团卫视
+http://liveout.btzx.com.cn/62ds9e/4nxdih.m3u8?fbl=
+#EXTINF:-1 group-title="卫视" tvg-logo="https://logo.catvod.com/%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86.png" download-speed="1.46", 兵团卫视
+https://iptv.catvod.com/live.php?id=%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.23", 兵团卫视
+https://liveout.btzx.com.cn/62ds9e/4nxdih.m3u8?zxinjd
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="0.944", 兵团卫视
+http://218.13.170.98:9901/tsfile/live/0115_1.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.63", 农林卫视
+http://gxlive.snrtv.com/nlws-SD.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.2999999523162842", 农林卫视
+http://120.76.248.139/live/bfgd/4200000122.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="0.9399999976158142", 农林卫视
+http://tvlist.top/jd/index.php?id=live3843&qt=183.224.122.114:8014
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="4.06", 凤凰卫视
 http://122.152.202.33/s/81a8a44f/index.m3u8?id=15
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="3.9000000953674316", 翡翠台
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.7799999713897705", 凤凰卫视
+http://api.kkitv.itv888.vip:8080/streams/vny1wblsnch/index.m3u8
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="0.6700000166893005", 凤凰卫视
+http://bxtv.3a.ink/api.php?id=fhzx
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="0.7599999904632568", 凤凰卫视
+http://bxtv.3a.ink/api.php?id=fhzw
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.61", 亚洲联合卫视
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.4", 亚洲联合卫视
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="6.48", 香港卫视
+http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="" download-speed="1.42", 人间卫视
+http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+#EXTINF:-1 group-title="河南" tvg-logo="" download-speed="1.13", 河南都市
+http://1.94.31.214/php/hntv.php?id=hnds
+#EXTINF:-1 group-title="河南" tvg-logo="" download-speed="1.46", 河南都市
+http://www.lwfz.fun:8800/rtp/239.16.20.164:11640
+#EXTINF:-1 group-title="河南" tvg-logo="" download-speed="2.26", 固始综合频道
+http://tvpull.dxhmt.cn:9081/tv/11525-1.m3u8
+#EXTINF:-1 group-title="河南" tvg-logo="" download-speed="2.98", 固始综合频道
+http://tvpull.dxhmt.cn:9081/tv/11525-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.8300000429153442", 凤凰香港
+https://live.catvod.com/iptv.php?id=fhhk01
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.06", 凤凰香港
+https://mgev.188766.xyz/?migutoken=5e6e1e853d723afa1717151061309e04&id=hk_fhhk&type=dy
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.5", 凤凰香港
+http://cdn6.163189.xyz/163189/fhhk
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.4299999475479126", 凤凰香港
+http://r.jdshipin.com/yDoTN
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.6699999570846558", 凤凰香港
+http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="3.069999933242798", 凤凰香港
+http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="3.690000057220459", 凤凰香港
+https://cdn6.101.qzz.io/163189/fhhk
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.39", 凤凰香港
+https://mgev.188766.xyz/?migutoken=40fa6c0ba9aebd84e02b7a2c1730f455&id=fhhk&pp=1
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="3.140000104904175", 凤凰香港
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="3.0199999809265137", 凤凰香港
+https://mgev.188766.xyz/?migutoken=872901c5d9ada9c9a5b2f1d2e73483a5&id=hk_fhhk&type=dy
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86%E9%A6%99%E6%B8%AF%E5%8F%B0.png" download-speed="1.07", 凤凰香港
+https://mgev.188766.xyz/?migutoken=20caec526398afec73103d2cf03a7fd9&id=fhhk&pp=1
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.5299999713897705", 凤凰香港
+http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="0.949999988079071", 凤凰香港
+https://smart.dxjc.pp.ua/smart.php?id=hkphoenix_twn&token=tmxk
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="0.8899999856948853", 凤凰香港
+http://bxtv.3a.ink/api.php?id=fhhk
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="3.130000114440918", TVB亚洲武侠
+http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.0499999523162842", TVB星河
+https://mgev.188766.xyz/?migutoken=368936488f55a04bccd9f58db06ab2f0&id=hk_tvbxh&type=dy
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="0.6299999952316284", TVB星河
+http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="0.5799999833106995", TVB明珠台
+http://php.jdshipin.com/TVOD/iptv.php?id=mzt
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.409999966621399", TVB功夫
+https://mgev.188766.xyz/?migutoken=c1c5c13d74f735838c0a91e628b98320&id=hk_yzwx&type=dy
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.72", TVBS亚洲
+http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="0.550000011920929", TVBS新聞
+http://61.221.215.25:8800/hls/9/index.m3u8
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="0.8399999737739563", TVB 星河台 Xing He
+https://smart.dxjc.pp.ua/smart.php?id=Xinhe&token=tmxk
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.7000000476837158", TVB Plus
+https://mgev.188766.xyz/?migutoken=62e3ad870a29b0cf3d26653aba8edbf9&id=hk_tvbp&type=dy
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="0.6299999952316284", TVB Plus
+http://bxtv.3a.ink/api.php?id=tvbp
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="0.6600000262260437", TVB Jade
+https://smart.dxjc.pp.ua/smart.php?id=Tvbjade&token=tmxk
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.659999966621399", 凤凰资讯
+https://cdn6.101.qzz.io/163189/fhzx
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.2000000476837158", 凤凰资讯
+http://api.kkitv.itv888.vip:8080/streams/wzt3qbit80m/index.m3u8
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.33", 凤凰资讯
+http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="0.92", 凤凰资讯
+https://mgev.188766.xyz/?migutoken=1f2a8c13256a5c1d8538242a512ad64f&id=fhzx&pp=1
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.9700000286102295", 凤凰资讯
+http://php.jdshipin.com/PLTV/iptv.php?id=fhzx
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="5.039999961853027", 凤凰资讯
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="2.1700000762939453", 凤凰资讯
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.0299999713897705", 凤凰资讯
+https://live.catvod.com/iptv.php?id=phzx01
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86%E8%B5%84%E8%AE%AF%E5%8F%B0.png" download-speed="1.11", 凤凰资讯
+https://mgev.188766.xyz/?migutoken=e0173d279954b8653bfeeecb32e65d79&id=fhzx&pp=1
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.5299999713897705", 凤凰资讯
+https://mgev.188766.xyz/?migutoken=eb63af441c07edbdf45e3b69692c917e&id=hk_fhzx&type=dy
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="0.952", 凤凰资讯
+http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="0.7099999785423279", 凤凰资讯
+https://smart.dxjc.pp.ua/smart.php?id=phoenixinfo_hd&token=tmxk
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.350000023841858", 凤凰中文
+http://cdn6.163189.xyz/163189/fhzw
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="4.050000190734863", 凤凰中文
+https://live.catvod.com/iptv.php?id=phzw01
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.03", 凤凰中文
+https://mgev.188766.xyz/?migutoken=d2cb1d3b27ceb7f566c0b20cbf3dbca7&id=fhzw&pp=1
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.659999966621399", 凤凰中文
+https://cdn6.101.qzz.io/163189/fhzw
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.15", 凤凰中文
+http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.190000057220459", 凤凰中文
+http://php.jdshipin.com/PLTV/iptv.php?id=fhzw
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="4.960000038146973", 凤凰中文
+http://r.jdshipin.com/cCCzW
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.7899999618530273", 凤凰中文
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="2.14", 凤凰中文
+https://mgev.188766.xyz/?migutoken=488cc8d5142343a18afcd003da4d11bc&id=hk_fhzw&type=dy
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86%E4%B8%AD%E6%96%87%E5%8F%B0.png" download-speed="1.39", 凤凰中文
+https://mgev.188766.xyz/?migutoken=224c3251edf637830af6c16a012522df&id=fhzw&pp=1
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="2.2899999618530273", 凤凰中文
+https://mgev.188766.xyz/?migutoken=101350486f910f2e2038994864e0e8e1&id=hk_fhzw&type=dy
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="3.809999942779541", 翡翠台4K
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4&token=tmxk
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="4.059999942779541", 翡翠台
-https://mgev.188766.xyz/?migutoken=23e1334df8e99785c8c39021b96823fc&id=hk_fct4k&type=dy
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="2.4600000381469727", 翡翠台
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="5.309999942779541", 翡翠台4K
+https://mgev.188766.xyz/?migutoken=04408651c8b50c20b90d007642d18994&id=hk_fct4k&type=dy
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.0199999809265137", 翡翠台
 https://live.catvod.com/iptv.php?id=fct005
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="4.559999942779541", 翡翠台
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.1699999570846558", 翡翠台
 https://live.catvod.com/iptv.php?id=fct002
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="2.359999895095825", 翡翠台
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.7899999618530273", 翡翠台
 https://live.catvod.com/iptv.php?id=fct003
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="2.990000009536743", 翡翠台
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="2.4600000381469727", 翡翠台
 https://live.catvod.com/iptv.php?id=fct004
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="4.380000114440918", 翡翠台
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="2.8399999141693115", 翡翠台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="2.2300000190734863", 翡翠台
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="2.009999990463257", 翡翠台
+http://api.kkitv.itv888.vip:8080/streams/91wc8xdtj8/index.m3u8
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="2.6500000953674316", 翡翠台
 http://r.jdshipin.com/qrfbg
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="5.510000228881836", 翡翠台
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.02", 翡翠台
 https://mgev.188766.xyz/?migutoken=782aa678f953bf9ecc8e20b173bb0bb6&id=hk_fct4k&type=dy
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="4.21999979019165", 翡翠台
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="3.140000104904175", 翡翠台
 http://rihou.cc:555/tv/[PL]无线翡4k
 #EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="2.799999952316284", 翡翠台
 http://r.jdshipin.com/62WM7
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="4.110000133514404", 翡翠台
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="3.180000066757202", 翡翠台
 http://r.jdshipin.com/n90gt
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="2.9600000381469727", 翡翠台
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="2.7300000190734863", 翡翠台
 http://r.jdshipin.com/GeWKr
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="3.440000057220459", 翡翠台
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="2.4200000762939453", 翡翠台
 http://r.jdshipin.com/qClQf
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="2.4600000381469727", 翡翠台
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.4199999570846558", 翡翠台
 https://live.catvod.com/iptv.php?id=fctsub
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="4.190000057220459", 翡翠台
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="0.8399999737739563", 翡翠台
+https://live.catvod.com/iptv.php?id=fct4k01
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="2.859999895095825", 翡翠台
 https://live.catvod.com/iptv.php?id=fct4k02
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="5.369999885559082", 翡翠台
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="2.0", 翡翠台
 http://cdn6.163189.xyz/163189/fct4k
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="3.0799999237060547", 翡翠台
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="3.049999952316284", 翡翠台
 http://rihou.cc:555/tv/[Pd]无线翡翠
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="2.2300000190734863", 翡翠台
-https://mgev.188766.xyz/?migutoken=7d3f93813945bba638a8533a1e18bc6f&id=hk_fct&type=dy
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="2.0899999141693115", 翡翠台
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="3.190000057220459", 翡翠台
+https://mgev.188766.xyz/?migutoken=d4beb6078a78786ba38602e31f1fe0e0&id=hk_fct&type=dy
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="2.240000009536743", 翡翠台
 http://php.jdshipin.com/TVOD/iptv.php?id=huali2
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.9299999475479126", 翡翠台
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="2.740000009536743", 翡翠台
 http://mytv.cdn.loc.cc/o12.php?id=fct
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="2.2300000190734863", 翡翠台
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="2.680000066757202", 翡翠台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="2.440000057220459", 翡翠台
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="2.2300000190734863", 翡翠台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.399999976158142", 「HK」J2
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.2100000381469727", 「HK」J2
 http://r.jdshipin.com/Nr5jq
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.6299999952316284", 「HK」J2
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="2.299999952316284", 「HK」J2
 http://r.jdshipin.com/ndGgS
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.6699999570846558", 无线新闻
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.159999966621399", 无线娱乐新闻
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.4199999570846558", 无线新闻
-https://mgev.188766.xyz/?migutoken=78b9e17d8666809440c35d808c71ffc0&id=hk_wxxw&type=dy
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.2000000476837158", 无线新闻
-http://bxtv.3a.ink/api.php?id=wxxw
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.2300000190734863", 明珠台
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.840000033378601", 无线新闻
+https://mgev.188766.xyz/?migutoken=95d1bef01d7ac9a189a9c4e7f9f2a986&id=hk_wxxw&type=dy
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.1299999952316284", 明珠台
+https://live.catvod.com/iptv.php?id=mztsub
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.56", 明珠台
 https://mgev.188766.xyz/?migutoken=34bb2192b30e5559e579a82cc4051d79&id=hk_mzt&type=dy
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="2.4100000858306885", 明珠台
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.559999942779541", 明珠台
 http://r.jdshipin.com/ZQ4kN
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.6100000143051147", 明珠台
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.4299999475479126", 明珠台
 http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="2.1500000953674316", 明珠台
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.340000033378601", 明珠台
 https://mgev.188766.xyz/?migutoken=aa134813480b0241f3fbc8bd320c1104&id=hk_mzt&type=dy
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.2999999523162842", 明珠台
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.190000057220459", 明珠台
 http://r.jdshipin.com/jUx8K
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="2.1700000762939453", 明珠台
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.8700000047683716", 明珠台
 https://live.catvod.com/iptv.php?id=mzt001
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.4600000381469727", 明珠台
-https://mgev.188766.xyz/?migutoken=0043716cbca7428b74ac96c9cea06bd1&id=hk_mzt&type=dy
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.909999966621399", 明珠台
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.1200000047683716", 明珠台
+https://live.catvod.com/iptv.php?id=mzt002
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="2.4700000286102295", 明珠台
+https://mgev.188766.xyz/?migutoken=1f2d32def44abb770b13e453e3963a88&id=hk_mzt&type=dy
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="0.7200000286102295", 明珠台
+http://bxtv.3a.ink/api.php?id=mz
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.68", 明珠台
+http://php.jdshipin.com:8880/smt.php?id=pearl_twn
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="2.609999895095825", 明珠台
 http://mytv.cdn.loc.cc/o12.php?id=mzt
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="2.5299999713897705", Now新闻台
-https://mgev.188766.xyz/?migutoken=ddbe61ff4fb3388cdf0516fa86667c0d&id=hk_now&type=dy
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.06", 美亚电影台
-http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.1799999475479126", 美亚电影台
-http://bxtv.3a.ink/api.php?id=meiya
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.15", 千禧经典台
-http://php.jdshipin.com:8880/smt.php?id=Tvbclassic
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="0.949999988079071", 千禧经典台
-http://bxtv.3a.ink/api.php?id=qxjd
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="2.690000057220459", 「HK」VIU TV
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="2.490000009536743", Now新闻台
+https://mgev.188766.xyz/?migutoken=bb9b46e529706eb9a9831e12246eb9bd&id=hk_now&type=dy
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="0.5699999928474426", 美亚电影
+https://smart.dxjc.pp.ua/smart.php?id=meiyamovie_twn&token=tmxk
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.04", 美亚C+
+http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.4", 纬来育乐
+https://live.catvod.com/live.php?id=videolandyule&token=bdbdf4f6c60a734f7d4e9d5df9b0560eda167e4ab02bb2ca0d69fc48d5976284%3A1761354848%3ANTIuMTYxLjQ1LjIyNA%3D%3D
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.840000033378601", 「HK」VIU TV
 http://r.jdshipin.com/vSJvl
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="3.200000047683716", 港台电视32
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="5.369999885559082", 港台电视31
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.8700000047683716", 港台电视31
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.600000023841858", 澳视澳门
-https://mgev.188766.xyz/?migutoken=11fc6c600f3226240259e5c5665bab30&id=hk_asam&type=dy
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="2.0", 八度空间
-https://mgev.188766.xyz/?migutoken=e9edb00b87ef786a3b335935617c39f8&id=hk_8tv&type=dy
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="0.982", 民视新闻台
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="4.420000076293945", 澳视澳门
+https://mgev.188766.xyz/?migutoken=c38b58415e652020b0366c392c43f041&id=hk_asam&type=dy
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.649999976158142", 八度空间
+https://mgev.188766.xyz/?migutoken=595696e6c94246b91d99101b23dbd584&id=hk_8tv&type=dy
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="0.5699999928474426", 中视 HD
+https://smart.dxjc.pp.ua/smart.php?id=zhongshihd_twn&token=tmxk
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.51", 民视新闻台
 http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.65", 民视新闻台
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.19", 民视新闻台
 http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.08", 东森美洲
-http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.52", 东森超视
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="0.945", 民视新闻台
+http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.03", 东森超视
 http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="0.5099999904632568", 三立戏剧台
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="0.800000011920929", 三立戏剧台
 https://smart.dxjc.pp.ua/smart.php?id=sanlixiju_twn&token=tmxk
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/BLTV.png" download-speed="1.5", 人间卫视
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="0.6499999761581421", 大愛電視
+https://smart.dxjc.pp.ua/smart.php?id=daai_twn&token=tmxk
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/BLTV.png" download-speed="1.79", 人间卫视
 http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.4800000190734863", 寰宇新闻
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="0.6200000047683716", 八大戏剧台
+https://smart.dxjc.pp.ua/smart.php?id=badadrama&token=tmxk
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="0.5600000023841858", 龙华偶像
+https://smart.dxjc.pp.ua/smart.php?id=lunghuaidol_twn&token=tmxk
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="0.8999999761581421", 寰宇新闻
 http://222.128.55.152:9080/live/hy.m3u8
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="5.23", 台视新闻
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="2.11", 台视新闻
 http://222.128.55.152:9080/live/ts.m3u8
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.24", 台视新闻
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.22", 台视新闻
+http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="0.917", 台视新闻
 http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="1.690000057220459", 龙祥时代
-https://smart.dxjc.pp.ua/smart.php?id=lungxiangtime_twn&token=tmxk
-#EXTINF:-1 group-title="历年春晚" tvg-logo="" download-speed="23.9", 1983年春晚
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="" download-speed="0.5799999833106995", 华丽台 HD （Wah Lai Toi）
+https://smart.dxjc.pp.ua/smart.php?id=Wlt&token=tmxk
+#EXTINF:-1 group-title="历年春晚" tvg-logo="" download-speed="6.11", 1983年春晚
 https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5MTRfNDAzMDAxOTlfNjYyNzMxNjcwMjBfMF8z_b_Beb3bda599f76c60c463c433ca7460153.mp4
 #EXTINF:-1 group-title="历年春晚" tvg-logo="" download-speed="18.5", 1984年春晚
 https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
-#EXTINF:-1 group-title="历年春晚" tvg-logo="" download-speed="28.6", 1985年春晚
+#EXTINF:-1 group-title="历年春晚" tvg-logo="" download-speed="4.35", 1985年春晚
 https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDFfNDAzMDAxOTlfNjYyNzMyNTAwMzJfMF8z_b_Be73c5abcbc0eeb2ec9fce6842e1362a4.mp4
-#EXTINF:-1 group-title="历年春晚" tvg-logo="" download-speed="27.0", 1986年春晚
+#EXTINF:-1 group-title="历年春晚" tvg-logo="" download-speed="25.3", 1986年春晚
 https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDRfNDAzMDAxOTlfNjYyNzMyNTU0OTRfMF8z_b_B24f7d19f1132fa5d7f502f8377ad5567.mp4
-#EXTINF:-1 group-title="历年春晚" tvg-logo="" download-speed="21.6", 1987年春晚
+#EXTINF:-1 group-title="历年春晚" tvg-logo="" download-speed="16.0", 1987年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5195746663405928031_hlsb.m3u8
-#EXTINF:-1 group-title="历年春晚" tvg-logo="" download-speed="17.9", 1987年春晚
+#EXTINF:-1 group-title="历年春晚" tvg-logo="" download-speed="8.51", 1987年春晚
 https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDhfNDAzMDAxOTlfNjYyNzMyNjMyMDNfMF8z_b_B570493ed8f7200d4013a66b2d21b2de9.mp4
-#EXTINF:-1 group-title="历年春晚" tvg-logo="" download-speed="36.7", 1988年春晚
+#EXTINF:-1 group-title="历年春晚" tvg-logo="" download-speed="19.3", 1988年春晚
 https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTJfNDAzMDAxOTlfNjYyNzMyNjkxNjBfMF8z_b_B8c835b83a92d25bde81ba22c5cd9521e.mp4
-#EXTINF:-1 group-title="历年春晚" tvg-logo="" download-speed="17.5", 1988年春晚
+#EXTINF:-1 group-title="历年春晚" tvg-logo="" download-speed="3.36", 1988年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5216575810935394655_hlsb.m3u8
-#EXTINF:-1 group-title="历年春晚" tvg-logo="" download-speed="23.8", 1989年春晚
+#EXTINF:-1 group-title="历年春晚" tvg-logo="" download-speed="7.42", 1989年春晚
 https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTVfNDAzMDAxOTlfNjYyNzMyNzQ2OTlfMF8z_b_Be477b27b9ce655d2372df56a5a3d96ef.mp4
-#EXTINF:-1 group-title="历年春晚" tvg-logo="" download-speed="12.6", 1989年春晚
+#EXTINF:-1 group-title="历年春晚" tvg-logo="" download-speed="3.62", 1989年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5194620763762726260_hlsb.m3u8
-#EXTINF:-1 group-title="历年春晚" tvg-logo="" download-speed="22.6", 1991年春晚
+#EXTINF:-1 group-title="历年春晚" tvg-logo="" download-speed="12.0", 1991年春晚
 https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjI2MTVfNDAzMDAxOTlfNjYyNzYwNjUxNjVfMF8z_b_B8feb7b85888678d71bf37a259c6850f6.mp4
-#EXTINF:-1 group-title="历年春晚" tvg-logo="" download-speed="14.9", 1993年春晚
+#EXTINF:-1 group-title="历年春晚" tvg-logo="" download-speed="9.54", 1993年春晚
 https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYwODJfMF8z_b_B647d10e431b4cc5e48e6c77347d69021.mp4
-#EXTINF:-1 group-title="历年春晚" tvg-logo="" download-speed="7.99", 1994年春晚
+#EXTINF:-1 group-title="历年春晚" tvg-logo="" download-speed="1.99", 1994年春晚
 https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxMjNfMF8z_b_B3dde97f36273f04403d4dc5eec611a35.mp4
-#EXTINF:-1 group-title="历年春晚" tvg-logo="" download-speed="16.9", 1995年春晚
+#EXTINF:-1 group-title="历年春晚" tvg-logo="" download-speed="4.64", 1995年春晚
 https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQwNzVfMF8z_b_B811c0dec6b9a3d3074a18522c185010a.mp4
-#EXTINF:-1 group-title="历年春晚" tvg-logo="" download-speed="10.8", 1996年春晚
+#EXTINF:-1 group-title="历年春晚" tvg-logo="" download-speed="5.68", 1996年春晚
 https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxNTJfMF8z_b_Bd841eae10ab1c9955ef55fbedfae6c45.mp4
-#EXTINF:-1 group-title="历年春晚" tvg-logo="" download-speed="8.93", 1999年春晚
+#EXTINF:-1 group-title="历年春晚" tvg-logo="" download-speed="4.0", 1999年春晚
 https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQxNTRfMF8z_b_B0b5e52bc003285ef66ec0cbb2be08556.mp4
-#EXTINF:-1 group-title="历年春晚" tvg-logo="" download-speed="11.9", 2000年春晚
+#EXTINF:-1 group-title="历年春晚" tvg-logo="" download-speed="2.71", 2000年春晚
 https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxMTNfMF8z_b_Bdddf4e7ef0ff6cfd477857bb40e78419.mp4
-#EXTINF:-1 group-title="历年春晚" tvg-logo="" download-speed="12.4", 2001年春晚
+#EXTINF:-1 group-title="历年春晚" tvg-logo="" download-speed="5.9", 2001年春晚
 https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyMDFfMF8z_b_B70592cb7c4054e9cabb675e849bbf4bd.mp4
-#EXTINF:-1 group-title="历年春晚" tvg-logo="" download-speed="8.49", 2002年春晚
+#EXTINF:-1 group-title="历年春晚" tvg-logo="" download-speed="6.61", 2002年春晚
 https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxNDdfMF8z_b_Ba6271d10b7e6cfae83759033a091f257.mp4
-#EXTINF:-1 group-title="历年春晚" tvg-logo="" download-speed="15.3", 2003年春晚
+#EXTINF:-1 group-title="历年春晚" tvg-logo="" download-speed="3.75", 2003年春晚
 https://alimov2.a.kwimgs.com/upic/2023/01/14/23/BMjAyMzAxMTQyMzQxNDdfNDAzMDAxOTlfOTM2MTU0MTk1NDFfMF8z_b_B182749d2cd2ea9323639254af385f24b.mp4
-#EXTINF:-1 group-title="历年春晚" tvg-logo="" download-speed="15.9", 2004年春晚
+#EXTINF:-1 group-title="历年春晚" tvg-logo="" download-speed="7.17", 2004年春晚
 https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxOTVfMF8z_b_B86c4430b82ff5a7f4e8132f6ee558536.mp4
-#EXTINF:-1 group-title="历年春晚" tvg-logo="" download-speed="14.0", 2005年春晚
+#EXTINF:-1 group-title="历年春晚" tvg-logo="" download-speed="13.5", 2005年春晚
 https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyMzhfMF8z_b_B35ad7cc86aec8fc9e5ddfb31fc7bed63.mp4
-#EXTINF:-1 group-title="历年春晚" tvg-logo="" download-speed="14.1", 2006年春晚
+#EXTINF:-1 group-title="历年春晚" tvg-logo="" download-speed="6.01", 2006年春晚
 https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyNzlfMF8z_b_Bbc3703fc331dc994c50859c19aad28ff.mp4
-#EXTINF:-1 group-title="历年春晚" tvg-logo="" download-speed="7.81", 2007年春晚
+#EXTINF:-1 group-title="历年春晚" tvg-logo="" download-speed="4.04", 2007年春晚
 https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzMjNfMF8z_b_B00b069c7899976459ceeaa99353dfefe.mp4
-#EXTINF:-1 group-title="历年春晚" tvg-logo="" download-speed="16.0", 2008年春晚
+#EXTINF:-1 group-title="历年春晚" tvg-logo="" download-speed="10.5", 2008年春晚
 https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzNTNfMF8z_b_Bd7346962e61bd7b84e11a1fa6e4616f9.mp4
-#EXTINF:-1 group-title="历年春晚" tvg-logo="" download-speed="9.2", 2009年春晚
+#EXTINF:-1 group-title="历年春晚" tvg-logo="" download-speed="3.04", 2009年春晚
 https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzOTBfMF8z_b_B29a36a85e0277f6c2a1f033ef7c10708.mp4
-#EXTINF:-1 group-title="历年春晚" tvg-logo="" download-speed="14.0", 2010年春晚
+#EXTINF:-1 group-title="历年春晚" tvg-logo="" download-speed="2.84", 2010年春晚
 https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ0MjlfMF8z_b_B8818807a00eed329a69fb494f405bd43.mp4
-#EXTINF:-1 group-title="历年春晚" tvg-logo="" download-speed="9.33", 2011年春晚
+#EXTINF:-1 group-title="历年春晚" tvg-logo="" download-speed="4.46", 2011年春晚
 https://alimov2.a.kwimgs.com/upic/2023/01/16/11/BMjAyMzAxMTYxMTA3MjFfNDAzMDAxOTlfOTM3MjcyMjA3ODhfMF8z_b_B8214200efc869dc6fcf99dad619fa4c1.mp4
-#EXTINF:-1 group-title="历年春晚" tvg-logo="" download-speed="15.8", 2013年春晚
+#EXTINF:-1 group-title="历年春晚" tvg-logo="" download-speed="7.56", 2013年春晚
 https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ1NjNfMF8z_b_B4fea55408dca4471a68a963ae096be59.mp4
-#EXTINF:-1 group-title="历年春晚" tvg-logo="" download-speed="8.52", 2014年春晚
+#EXTINF:-1 group-title="历年春晚" tvg-logo="" download-speed="4.78", 2014年春晚
 https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTNfNDAzMDAxOTlfOTI4OTY2ODAzNjlfMF8z_b_Bdee65c77f9e7b2120a185c919dad81d2.mp4
-#EXTINF:-1 group-title="历年春晚" tvg-logo="" download-speed="9.33", 2015年春晚
+#EXTINF:-1 group-title="历年春晚" tvg-logo="" download-speed="4.56", 2015年春晚
 https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ2MTZfMF8z_b_B4851f43f5a2bc2871a9b0ec87294a6e7.mp4
-#EXTINF:-1 group-title="历年春晚" tvg-logo="" download-speed="15.7", 2017年春晚
+#EXTINF:-1 group-title="历年春晚" tvg-logo="" download-speed="3.38", 2017年春晚
 https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ2NDhfMF8z_b_B6527b0c2ce3dda1d9b3f34edd4fdb9aa.mp4
-#EXTINF:-1 group-title="历年春晚" tvg-logo="" download-speed="5.77", 2019年春晚
+#EXTINF:-1 group-title="历年春晚" tvg-logo="" download-speed="3.09", 2019年春晚
 https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTRfNDAzMDAxOTlfOTI4OTY2ODE2MTBfMF8z_b_B11a778e34390a21de42d407e94f45b91.mp4
-#EXTINF:-1 group-title="历年春晚" tvg-logo="" download-speed="9.34", 2020年春晚
+#EXTINF:-1 group-title="历年春晚" tvg-logo="" download-speed="15.6", 2020年春晚
 https://alimov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAyMTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4
-#EXTINF:-1 group-title="历年春晚" tvg-logo="" download-speed="8.02", 2021年春晚
+#EXTINF:-1 group-title="历年春晚" tvg-logo="" download-speed="4.89", 2021年春晚
 https://alimov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzE4NTJfNDAzMDAxOTlfNjYxNzUzOTg3NjlfMF8z_b_Be41d9503181d7b0608a839ed401e02c2.mp4
-#EXTINF:-1 group-title="历年春晚" tvg-logo="" download-speed="8.21", 2022年春晚
+#EXTINF:-1 group-title="历年春晚" tvg-logo="" download-speed="2.67", 2022年春晚
 https://alimov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4
-#EXTINF:-1 group-title="历年春晚" tvg-logo="" download-speed="4.56", 2024年春晚
-https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
-#EXTINF:-1 group-title="历年春晚" tvg-logo="" download-speed="6.39", 2025年春晚
+#EXTINF:-1 group-title="历年春晚" tvg-logo="" download-speed="3.87", 2025年春晚
 https://svipsvip.ffzyread1.com/20250129/35458_c988286f/index.m3u8
-#EXTINF:-1 group-title="历年春晚" tvg-logo="" download-speed="4.83", 2025年春晚
+#EXTINF:-1 group-title="历年春晚" tvg-logo="" download-speed="2.76", 2025年春晚
 https://svip.high24-playback.com/20250129/17159_7bca93c4/2000k/hls/mixed.m3u8
-#EXTINF:-1 group-title="历年春晚" tvg-logo="" download-speed="4.14", 2025年春晚
+#EXTINF:-1 group-title="历年春晚" tvg-logo="" download-speed="1.91", 2025年春晚
 https://res.cctvnews.cctv.com/video/3005/record/cctv/merge1/133396667284143308839013005/8fbd6180bdef4da19f6155cf6b4652e1-4.m3u8
-#EXTINF:-1 group-title="动画频道" tvg-logo="" download-speed="2.1", Camp Spoopy「少儿」
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=269&livestream=1&live=1&app_bundle=com.plexapp.desktop&did=df8e1a36-847d-5096-86a7-3803ed330ede&app_domain=app.plex.tv&app_name=plex&h=691&w=1224&content_title=MorUy57ijWhGe4ixZb_T&content_series=5f77a99416621400402b3dc1&custom4=plex&gdpr=1&device_make=Windows&device_model=Firefox&coppa=1&us_privacy=1---&checkedby:iptvcat.com
-#EXTINF:-1 group-title="动画频道" tvg-logo="" download-speed="1.46", Kids Station
+#EXTINF:-1 group-title="动画频道" tvg-logo="" download-speed="4.81", 黑龙江少儿
+https://ls.qingting.fm/live/4972/64k.m3u8
+#EXTINF:-1 group-title="动画频道" tvg-logo="" download-speed="2.86", 韩国EBS 少儿频道
+http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1 group-title="动画频道" tvg-logo="" download-speed="1.69", 福州少儿
+http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
+#EXTINF:-1 group-title="动画频道" tvg-logo="" download-speed="3.09", 韩国EBS 儿童频道
+http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
+#EXTINF:-1 group-title="动画频道" tvg-logo="" download-speed="3.09", Kids Station
 https://nl.utako.moe/kids_station/index.m3u8
-#EXTINF:-1 group-title="动画频道" tvg-logo="" download-speed="1.32", 卡酷动画
-http://218.13.170.98:9901/tsfile/live/1021_1.m3u8
-#EXTINF:-1 group-title="动画频道" tvg-logo="" download-speed="3.0", 优漫卡通
-http://www.wmviv.com/iptv/bc2t.php?id=ymkt
-#EXTINF:-1 group-title="动画频道" tvg-logo="" download-speed="0.909", 炫动卡通
-http://120.238.94.10:9901/tsfile/live/1037_1.m3u8
-#EXTINF:-1 group-title="动画频道" tvg-logo="" download-speed="1.16", 金鹰卡通
-http://101.66.195.28:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="动画频道" tvg-logo="" download-speed="2.2200000286102295", 嘉佳卡通
-https://hk.188766.xyz/?migutoken=472d3f3718c2c115a9539465caa76195&id=gd_jjkt&type=sz
-#EXTINF:-1 group-title="动画频道" tvg-logo="" download-speed="0.945", 漫画解说
-https://yylunbo.ottiptv.cc/yy/1382735568
-#EXTINF:-1 group-title="动画频道" tvg-logo="" download-speed="46.4", 雲朵妈妈
+#EXTINF:-1 group-title="动画频道" tvg-logo="" download-speed="0.7099999785423279", 嘉佳卡通
+https://hk.188766.xyz/?migutoken=31c9aafaac3e229a67238a4115f7970a&id=gd_jjkt&type=sz
+#EXTINF:-1 group-title="动画频道" tvg-logo="" download-speed="6.98", 雲朵妈妈
 https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d8ad434c6b08421a927557a4d98da65c/1200.m3u8
-#EXTINF:-1 group-title="动画频道" tvg-logo="" download-speed="23.3", 「电影」猪猪侠•英雄猪少年
+#EXTINF:-1 group-title="动画频道" tvg-logo="" download-speed="4.63", 「电影」猪猪侠•英雄猪少年
 https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0f03b08bc7b042358144617000fd2931/1200.m3u8
-#EXTINF:-1 group-title="动画频道" tvg-logo="" download-speed="42.0", 熊大熊二
+#EXTINF:-1 group-title="动画频道" tvg-logo="" download-speed="10.0", 熊大熊二
 https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1733da751de64e6e910abda889d87a26/1200.m3u8
-#EXTINF:-1 group-title="动画频道" tvg-logo="" download-speed="6.69", 蜡笔小新
-http://www.douzhicloud.site:35455/bilibili/30837590
-#EXTINF:-1 group-title="动画频道" tvg-logo="" download-speed="3.14", 灌篮高手
+#EXTINF:-1 group-title="动画频道" tvg-logo="" download-speed="0.958", 灌篮高手
 http://www.douzhicloud.site:35455/yy/1382735626
-#EXTINF:-1 group-title="动画频道" tvg-logo="" download-speed="43.1", 倒霉特熊
+#EXTINF:-1 group-title="动画频道" tvg-logo="" download-speed="33.8", 倒霉特熊
 https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8
-#EXTINF:-1 group-title="动画频道" tvg-logo="" download-speed="28.1", 狮子王國
+#EXTINF:-1 group-title="动画频道" tvg-logo="" download-speed="10.1", 狮子王國
 https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c2e7e767f3144bed959ef20b8b961fe5/850.m3u8
-#EXTINF:-1 group-title="动画频道" tvg-logo="" download-speed="19.2", 反转星球
+#EXTINF:-1 group-title="动画频道" tvg-logo="" download-speed="3.41", 反转星球
 https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ccdecc7d6e341c1920ad4eac5d82f38/1200.m3u8
-#EXTINF:-1 group-title="解说频道" tvg-logo="" download-speed="2.4200000762939453", 哑巴竟然会说话
+#EXTINF:-1 group-title="解说频道" tvg-logo="" download-speed="0.8299999833106995", 钟馗传说
+https://yylunbo.ottiptv.cc/yy/1382736839
+#EXTINF:-1 group-title="解说频道" tvg-logo="" download-speed="0.926", 这部剧你居然没看过
+https://yylunbo.ottiptv.cc/yy/1354932355
+#EXTINF:-1 group-title="解说频道" tvg-logo="" download-speed="1.18", 哑巴竟然会说话
 https://yylunbo.ottiptv.cc/yy/1354932427
-#EXTINF:-1 group-title="解说频道" tvg-logo="" download-speed="0.931", 新三国萌儿陪看
+#EXTINF:-1 group-title="解说频道" tvg-logo="" download-speed="1.19", 新三国萌儿陪看
 https://yylunbo.ottiptv.cc/yy/29216766
-#EXTINF:-1 group-title="解说频道" tvg-logo="" download-speed="1.11", 新白娘子4K观看
+#EXTINF:-1 group-title="解说频道" tvg-logo="" download-speed="1.21", 新白娘子4K观看
 https://yylunbo.ottiptv.cc/yy/1508961855
-#EXTINF:-1 group-title="解说频道" tvg-logo="" download-speed="1.08", 谈判专家
-http://www.douzhicloud.site:35455/yy/1382735560
-#EXTINF:-1 group-title="解说频道" tvg-logo="" download-speed="1.15", 陪你一起看好剧
+#EXTINF:-1 group-title="解说频道" tvg-logo="" download-speed="1.0099999904632568", 人生必看的科幻片
+https://yylunbo.ottiptv.cc/yy/1382745114
+#EXTINF:-1 group-title="解说频道" tvg-logo="" download-speed="1.08", 清官难当看芝麻官如何破局
+https://yylunbo.ottiptv.cc/yy/1382749909
+#EXTINF:-1 group-title="解说频道" tvg-logo="" download-speed="0.949", 陪你一起看好剧
 https://yylunbo.ottiptv.cc/yy/1354932359
-#EXTINF:-1 group-title="解说频道" tvg-logo="" download-speed="1.0", 来看修牛蹄
+#EXTINF:-1 group-title="解说频道" tvg-logo="" download-speed="2.6500000953674316", 漫画解说
+https://yylunbo.ottiptv.cc/yy/1382735568
+#EXTINF:-1 group-title="解说频道" tvg-logo="" download-speed="1.51", 来看修牛蹄
 https://yylunbo.ottiptv.cc/yy/1382749887
-#EXTINF:-1 group-title="解说频道" tvg-logo="" download-speed="1.05", 欢乐一起看
+#EXTINF:-1 group-title="解说频道" tvg-logo="" download-speed="0.988", 浪客剑心传说的完结篇
+https://yylunbo.ottiptv.cc/yy/1382736820
+#EXTINF:-1 group-title="解说频道" tvg-logo="" download-speed="1.15", 进来陪你看动漫
+https://yylunbo.ottiptv.cc/yy/1352866135
+#EXTINF:-1 group-title="解说频道" tvg-logo="" download-speed="1.27", 进来陪你看电视
+https://yylunbo.ottiptv.cc/yy/1353518742
+#EXTINF:-1 group-title="解说频道" tvg-logo="" download-speed="1.17", 靓剑乐乐陪看
+https://yylunbo.ottiptv.cc/yy/1352946111
+#EXTINF:-1 group-title="解说频道" tvg-logo="" download-speed="0.6100000143051147", 欢乐一起看
 https://yylunbo.ottiptv.cc/yy/1354930926
-#EXTINF:-1 group-title="解说频道" tvg-logo="" download-speed="1.01", 返乡青年撞破村中隐秘村里有情况
-https://yylunbo.ottiptv.cc/yy/1382749940
-#EXTINF:-1 group-title="解说频道" tvg-logo="" download-speed="1.06", 大家都在看的电视剧
-https://yylunbo.ottiptv.cc/yy/1354930964
-#EXTINF:-1 group-title="解说频道" tvg-logo="" download-speed="1.2100000381469727", 百家讲坛之明太祖朱元璋
-https://yylunbo.ottiptv.cc/yy/1354936149
-#EXTINF:-1 group-title="解说频道" tvg-logo="" download-speed="1.2300000190734863", 百家讲坛红楼梦篇
+#EXTINF:-1 group-title="解说频道" tvg-logo="" download-speed="1.16", 朵宝陪你看狄仁杰
+https://yylunbo.ottiptv.cc/yy/1353753252
+#EXTINF:-1 group-title="解说频道" tvg-logo="" download-speed="0.9300000071525574", 百家讲坛红楼梦篇
 https://yylunbo.ottiptv.cc/yy/1382741639
-#EXTINF:-1 group-title="解说频道" tvg-logo="" download-speed="1.03", 90年代爱情经典必看
+#EXTINF:-1 group-title="解说频道" tvg-logo="" download-speed="0.5299999713897705", 90年代爱情经典必看
 https://yylunbo.ottiptv.cc/yy/1382736893
-#EXTINF:-1 group-title="经典剧场" tvg-logo="https://epg-1.iill.top/logo/%E8%99%8E%E7%89%99.png" download-speed="2.27", 挨饿德•2「其他」
+#EXTINF:-1 group-title="经典剧场" tvg-logo="" download-speed="3.0399999618530273", 挨饿德•2「其他」
 https://live.iill.top/huya/17693860
-#EXTINF:-1 group-title="经典剧场" tvg-logo="" download-speed="2.630000114440918", 挨饿德•1「其他」
+#EXTINF:-1 group-title="经典剧场" tvg-logo="https://epg-1.iill.top/logo/%E8%99%8E%E7%89%99.png" download-speed="1.33", 挨饿德•1「其他」
 https://live.iill.top/huya/20985858
-#EXTINF:-1 group-title="经典剧场" tvg-logo="" download-speed="1.850000023841858", 野行者「其他」
+#EXTINF:-1 group-title="经典剧场" tvg-logo="" download-speed="1.8799999952316284", 野行者「其他」
 https://live.iill.top/huya/20072663
-#EXTINF:-1 group-title="经典剧场" tvg-logo="" download-speed="1.03", 新白娘子传奇
+#EXTINF:-1 group-title="经典剧场" tvg-logo="" download-speed="1.18", 西游记
+https://live.iill.top/huya/26355861
+#EXTINF:-1 group-title="经典剧场" tvg-logo="" download-speed="1.12", 新白娘子传奇
 http://www.douzhicloud.site:35455/yy/1354490667
-#EXTINF:-1 group-title="经典剧场" tvg-logo="" download-speed="1.81", 仙剑奇侠传
+#EXTINF:-1 group-title="经典剧场" tvg-logo="" download-speed="1.31", 仙剑奇侠传
 http://www.douzhicloud.site:35455/yy/1382749903
-#EXTINF:-1 group-title="经典剧场" tvg-logo="" download-speed="2.569999933242798", 笑傲江湖
+#EXTINF:-1 group-title="经典剧场" tvg-logo="" download-speed="1.09", 笑傲江湖
 https://live.iill.top/huya/23865142
-#EXTINF:-1 group-title="经典剧场" tvg-logo="" download-speed="1.13", 天龙八部
-http://www.douzhicloud.site:35455/yy/1351814644
-#EXTINF:-1 group-title="经典剧场" tvg-logo="" download-speed="1.14", 天龙八部
+#EXTINF:-1 group-title="经典剧场" tvg-logo="" download-speed="2.559999942779541", 天龙八部
 http://jiaojirentv.top/2020/yy.php?id=1382881708
-#EXTINF:-1 group-title="经典剧场" tvg-logo="https://epg-1.iill.top/logo/%E8%99%8E%E7%89%99.png" download-speed="1.99", 美剧「解说」
+#EXTINF:-1 group-title="经典剧场" tvg-logo="https://epg-1.iill.top/logo/%E8%99%8E%E7%89%99.png" download-speed="1.63", 美剧「解说」
 https://live.iill.top/huya/20488841
-#EXTINF:-1 group-title="经典剧场" tvg-logo="" download-speed="1.11", 鹿鼎记
-http://www.douzhicloud.site:35455/yy/28265277
-#EXTINF:-1 group-title="经典剧场" tvg-logo="" download-speed="1.9800000190734863", 互扇巴掌大赛「其他」
-https://live.iill.top/huya/20072873
-#EXTINF:-1 group-title="经典剧场" tvg-logo="https://epg-1.iill.top/logo/%E8%99%8E%E7%89%99.png" download-speed="1.74", 荒野求生「其他」
+#EXTINF:-1 group-title="经典剧场" tvg-logo="https://epg-1.iill.top/logo/%E8%99%8E%E7%89%99.png" download-speed="3.56", 荒野求生「其他」
 https://live.iill.top/huya/593667
-#EXTINF:-1 group-title="经典剧场" tvg-logo="https://epg-1.iill.top/logo/%E8%99%8E%E7%89%99.png" download-speed="1.08", 哆啦A梦「动漫」
+#EXTINF:-1 group-title="经典剧场" tvg-logo="https://epg-1.iill.top/logo/%E8%99%8E%E7%89%99.png" download-speed="1.29", 哆啦A梦「动漫」
 https://live.iill.top/huya/11601963
-#EXTINF:-1 group-title="经典剧场" tvg-logo="https://epg-1.iill.top/logo/%E8%99%8E%E7%89%99.png" download-speed="3.78", 电影•1「解说」
-https://live.iill.top/huya/20289754
-#EXTINF:-1 group-title="经典剧场" tvg-logo="https://epg-1.iill.top/logo/%E8%99%8E%E7%89%99.png" download-speed="1.79", 电视剧•2「解说」
-https://live.iill.top/huya/25018873
-#EXTINF:-1 group-title="经典剧场" tvg-logo="" download-speed="1.409999966621399", 茶啊二中「动画」
+#EXTINF:-1 group-title="经典剧场" tvg-logo="" download-speed="0.6000000238418579", 茶啊二中「动画」
 https://live.iill.top/huya/11213191
-#EXTINF:-1 group-title="经典剧场" tvg-logo="" download-speed="1.11", 闯关东
+#EXTINF:-1 group-title="经典剧场" tvg-logo="" download-speed="0.6899999976158142", 闯关东
 http://129.150.54.232:10001/yy/1354689861
-#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="1.24", 欧美配音电影
-https://yylunbo.ottiptv.cc/yy/1354693629
-#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="1.2899999618530273", 周星驰搞笑电影
+#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="0.99", 周星驰搞笑电影
 https://yylunbo.ottiptv.cc/yy/38670875
-#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="1.5800000429153442", 影视小艺
+#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="2.5199999809265137", 珍珠港电影
+https://yylunbo.ottiptv.cc/yy/1354936234
+#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="1.17", 影视小艺
 https://yylunbo.ottiptv.cc/yy/1382737886
-#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="0.6399999856948853", 野山鹰影视剧
+#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="1.17", 野山鹰影视剧
 https://yylunbo.ottiptv.cc/yy/1354932395
-#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="1.38", 远去的飞鹰影视剧
+#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="1.22", 远去的飞鹰影视剧
 https://yylunbo.ottiptv.cc/yy/1354930912
-#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="2.71", 夏洛特烦恼国内电影喜剧
-https://yylunbo.ottiptv.cc/yy/1354936201
-#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="5.19", 我不是药神
+#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="0.6100000143051147", 岳云鹏宋小宝也来演电影了
+https://yylunbo.ottiptv.cc/yy/1354926612
+#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="1.38", 悬疑武侠电影九门
+https://yylunbo.ottiptv.cc/yy/1382828768
+#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="2.06", 我不是药神
 https://vip.ffzy-play1.com/20221018/478_c3afed66/index.m3u8
-#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="4.369999885559082", 无线星河
+#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="1.350000023841858", 无线星河
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
-#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="0.6100000143051147", 无线星河
+#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="0.7099999785423279", 无线星河
 https://cdn6.101.qzz.io/163189/tvbxh
-#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="2.069999933242798", 天映经典
+#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="0.7400000095367432", 天映频道
+https://smart.dxjc.pp.ua/smart.php?id=Celestial&token=tmxk
+#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="1.909999966621399", 天映经典
 http://cdn10.163189.xyz/163189/ccm
-#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="2.049999952316284", 天映经典
-https://live.catvod.com/iptv.php?id=ccm01
-#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="1.19", 搜狐剧场
+#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="1.13", 天龙八部
+http://www.douzhicloud.site:35455/yy/1351814644
+#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="1.46", 搜狐剧场
 https://hdl-vip-ws.qf.56.com/live/lc_11730.flv
-#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="0.949", 粟裕大将影视
+#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="1.22", 粟裕大将影视
 https://yylunbo.ottiptv.cc/yy/1354926542
-#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="1.04", 史诗级科幻电影阿凡达
+#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="0.903", 史诗级科幻电影阿凡达
 https://yylunbo.ottiptv.cc/yy/1382735577
-#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="1.33", 邵氏影院
-http://www.douzhicloud.site:35455/douyu/4246519
-#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="6.48", 人在囧途之泰囧
+#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="2.06", 人在囧途之泰囧
 https://vip.ffzy-play.com/20221018/1951_47e1adc8/index.m3u8
-#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="6.82", 人在囧途之港囧
+#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="4.11", 人在囧途之港囧
 https://vip.ffzy-play7.com/20230112/11082_fde1a94d/index.m3u8
-#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="8.47", 人在囧途
+#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="8.0", 人在囧途
 https://vip.ffzy-play.com/20221018/1953_2d6ba500/index.m3u8
-#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="1.02", 热血抗日电影
-https://yylunbo.ottiptv.cc/yy/1382749907
-#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="1.38", 热血动作电影
+#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="1.03", 热血动作电影
 https://yylunbo.ottiptv.cc/yy/1382736804
-#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="1.25", 热门港剧
+#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="1.32", 热门港剧
 http://www.douzhicloud.site:35455/douyu/5522351
-#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="9.82", 让子弹飞
+#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="7.09", 让子弹飞
 https://vip.ffzy-play7.com/20230116/11563_b9f44814/index.m3u8
-#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="0.924", 奇幻冒险电影凯斯宾王子的魔法征途
-https://yylunbo.ottiptv.cc/yy/1354926671
-#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="1.7699999809265137", 倩女幽魂妖魔道
+#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="2.8299999237060547", 倩女幽魂妖魔道
 http://jsmov2.a.yximgs.com/bs3/video-hls/5232901391302199073_hlsb.m3u8
-#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="2.3299999237060547", 倩女幽魂人间道
+#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="1.3200000524520874", 倩女幽魂人间道
 http://jsmov2.a.yximgs.com/bs3/video-hls/5250634317044855747_hlsb.m3u8
-#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="2.680000066757202", 倩女幽魂道道道
+#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="2.5", 倩女幽魂道道道
 http://jsmov2.a.yximgs.com/bs3/video-hls/5216294367991385255_hlsb.m3u8
-#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="1.04", 末日电影合集
+#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="1.15", 末日电影合集
 http://www.douzhicloud.site:35455/yy/1354889019
-#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="1.06", 老卓电影
+#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="1.24", 老卓电影
 https://yylunbo.ottiptv.cc/yy/1354770516
-#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="1.350000023841858", 龙祥电影
+#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="1.2899999618530273", 龙祥电影
 http://free.cnlive.club/channel/67548a4f.m3u8
-#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="1.1399999856948853", 龙门飞甲
+#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="0.8100000023841858", 龙门飞甲
 http://jsmov2.a.yximgs.com/bs3/video-hls/5203346449046555193_hlsb.m3u8
-#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="0.966", 林正英经典电影
-https://yylunbo.ottiptv.cc/yy/34229877
-#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="5.05", 聊齋畫壁
+#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="2.04", 聊齋畫壁
 https://vip.lz-cdn7.com/20230226/14577_538d24e5/index.m3u8
-#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="0.7099999785423279", 科幻电影
+#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="1.29", 科幻电影
 https://yylunbo.ottiptv.cc/yy/1354930209
-#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="0.800000011920929", 科幻电影
+#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="1.17", 科幻电影
 https://yylunbo.ottiptv.cc/yy/1355065896
-#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="2.45", 经典港片电影
+#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="10.5", 经典剧集
+http://www.douzhicloud.site:35455/douyu/6863367
+#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="2.0", 经典港片电影
+https://yylunbo.ottiptv.cc/yy/1459801818
+#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="2.76", 经典港片电影
 https://yylunbo.ottiptv.cc/yy/1461889059
-#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="1.07", 经典电影港片枪战
+#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="1.2", 经典电影港片枪战
 https://yylunbo.ottiptv.cc/yy/1355076627
-#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="0.909", 精彩动作电影享不停
-https://yylunbo.ottiptv.cc/yy/1382736809
-#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="1.2000000476837158", 精彩动作电影
-https://yylunbo.ottiptv.cc/yy/1382736823
-#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="1.49", 靖天戏剧
-http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv058
-#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="1.0700000524520874", 好萊塢電影台
-https://smart.dxjc.pp.ua/smart.php?id=hollywoodmovies_twn&token=tmxk
-#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="6.82", 寒战
+#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="1.0499999523162842", 经典电影
+https://yylunbo.ottiptv.cc/yy/1414812324
+#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="1.45", 哈尔滨影视
+https://stream.hrbtv.net/yspd/sd/live.m3u8
+#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="5.41", 寒战
 https://vip.ffzy-play6.com/20221019/157_bf0740ee/index.m3u8
-#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="1.18", 华语影视
+#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="1.25", 华语影视
 http://www.douzhicloud.site:35455/douyu/3928
-#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="1.23", 古装武侠
+#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="1.24", 古装武侠
 http://www.douzhicloud.site:35455/douyu/2793084
-#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="1.75", 国内经典动作电影
+#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="0.915", 国内玄幻电影林正英
+https://yylunbo.ottiptv.cc/yy/1354932444
+#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="1.01", 国内经典动作电影
 https://yylunbo.ottiptv.cc/yy/1382851522
-#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="1.07", 国产动作电影
+#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="0.983", 国产动作电影
 https://yylunbo.ottiptv.cc/yy/1382736858
-#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="1.15", 国产大片电影
+#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="0.9300000071525574", 国产大片电影
 https://yylunbo.ottiptv.cc/yy/1354926655
-#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="1.22", 怪医文三块影视剧
+#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="0.934", 国产电影就是闹着玩的
+https://yylunbo.ottiptv.cc/yy/1354931503
+#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="1.4199999570846558", 怪医文三块影视剧
 https://yylunbo.ottiptv.cc/yy/1354936154
-#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="4.82", 扶桑花女孩
+#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="3.7", 扶桑花女孩
 https://vip.lz-cdn7.com/20230223/14473_34758120/index.m3u8
-#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="4.44", 凤凰电影
+#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="1.51", 凤凰电影
 http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
-#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="1.15", 东森洋片
-https://live.catvod.com/live.php?id=ettvwestern&token=5e2cbbb7deb7d1b42f976b2d848ee5da6d09fa84744e0c7aaadd7dbe6ea33dca%3A1761268460%3AMTcyLjIwMC4xODMuMjQx
-#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="1.44", 大江大河2高分影视推荐
+#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="2.450000047683716", 东阳影视生活
+http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
+#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="0.7400000095367432", 刀刀影院
+http://www.douzhicloud.site:35455/douyu/747764
+#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="1.24", 斗鱼港剧
+http://www.douzhicloud.site:35455/douyu/5061550
+#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="0.5799999833106995", 大进军全集红色系列电影
+https://yylunbo.ottiptv.cc/yy/1382745083
+#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="0.908", 大江大河高分影视推荐
+https://yylunbo.ottiptv.cc/yy/1382736806
+#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="1.04", 大江大河2高分影视推荐
 https://yylunbo.ottiptv.cc/yy/1382736797
-#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="1.91", 电影电影电影电影电影电影
-https://yylunbo.ottiptv.cc/yy/1351496216
-#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="1.2999999523162842", 电影百团大战
+#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="0.952", 电影黑豹
+https://yylunbo.ottiptv.cc/yy/1382736816
+#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="0.8999999761581421", 电影百团大战
 https://yylunbo.ottiptv.cc/yy/1382736871
-#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="1.71", 醜女大翻身
+#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="0.6000000238418579", 电影
+https://yylunbo.ottiptv.cc/yy/37454459
+#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="0.6499999761581421", 醜女大翻身
 https://vip.lz-cdn7.com/20230223/14471_0a1ee6d8/index.m3u8
-#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="0.977", 超精彩系列动作电影
+#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="1.09", 超精彩系列动作电影
 https://yylunbo.ottiptv.cc/yy/1382745096
-#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="7.77", 拆弹专家2
+#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="3.4", 拆弹专家2
 https://vip.ffzy-online.com/20221015/722_e32c42bc/index.m3u8
-#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="7.59", 拆弹专家1
+#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="3.98", 拆弹专家1
 https://vip.ffzy-online.com/20221015/719_80ff87c2/index.m3u8
-#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="1.25", 橙记港剧
+#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="1.11", 橙记港剧
 http://www.douzhicloud.site:35455/douyu/4549169
-#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="1.19", 冰冰影剧
+#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="1.34", 冰冰影剧
 http://www.douzhicloud.site:35455/douyu/74374
-#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="1.29", 贝爷求生
+#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="1.27", 贝爷求生
 http://www.douzhicloud.site:35455/douyu/4332
-#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="1.090000033378601", 爆笑电影王牌大贱谍23
+#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="1.25", 爆笑电影王牌大贱谍23
 https://yylunbo.ottiptv.cc/yy/1382735556
-#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="1.31", YY果国际电影频道
-https://yylunbo.ottiptv.cc/yy/1382627144
-#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="0.6399999856948853", SCM
-https://smart.dxjc.pp.ua/smart.php?id=Weishimovie&token=tmxk
-#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="2.450000047683716", QTV-3
+#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="0.6100000143051147", Warner TV
+https://smart.dxjc.pp.ua/smart.php?id=WarnerTV&token=tmxk
+#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="1.059999942779541", Star Movies HD
+https://smart.dxjc.pp.ua/smart.php?id=starmovies_raj&token=tmxk
+#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="1.7999999523162842", QTV-3
 http://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8
-#EXTINF:-1 group-title="电影频道" tvg-logo="https://www.tvchinese.net/uploads/tv/haerbin.jpg" download-speed="2.64", Harbin Movie Channel
+#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="0.5899999737739563", Hits
+https://smart.dxjc.pp.ua/smart.php?id=Hits&token=tmxk
+#EXTINF:-1 group-title="电影频道" tvg-logo="https://www.tvchinese.net/uploads/tv/haerbin.jpg" download-speed="2.02", Harbin Movie Channel
 https://stream.hrbtv.net/yspd/playlist.m3u8
-#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="0.5", HBO Family
-https://smart.dxjc.pp.ua/smart.php?id=Hbofamily&token=tmxk
-#EXTINF:-1 group-title="电影频道" tvg-logo="https://logo.catvod.com/CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1.png" download-speed="3.02", CHC影迷电影
-https://iptv.catvod.com/live.php?id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1
-#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="3.15", CHC家庭影院
+#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="0.6600000262260437", HBO Hits
+https://smart.dxjc.pp.ua/smart.php?id=Hbohitshd&token=tmxk
+#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="0.5199999809265137", Cinemax
+https://smart.dxjc.pp.ua/smart.php?id=Cinemax&token=tmxk
+#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="2.8", CHC家庭影院
 https://iptv.catvod.com/live.php?id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2
-#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="3.19", CHC家庭影院
+#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="3.13", CHC家庭影院
 http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
-#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="3.17", CHC动作电影
-http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
-#EXTINF:-1 group-title="电影频道" tvg-logo="https://logo.catvod.com/CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1.png" download-speed="3.23", CHC动作电影
+#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="2.32", CHC动作电影
 https://iptv.catvod.com/live.php?id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1
-#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="0.5799999833106995", CHC电影
-http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="0.5799999833106995", Astrol Kplus
-https://smart.dxjc.pp.ua/smart.php?id=Kplus&token=tmxk
-#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="0.7799999713897705", 1930年代经典电影
+#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="1.32", CHC动作电影
+http://live.nctv.top/huya.php?id=11602077
+#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="2.97", CHC动作电影
+http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
+#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="0.5", Animax
+https://smart.dxjc.pp.ua/smart.php?id=Animax&token=tmxk
+#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="1.52", 1930年代经典电影
 https://yylunbo.ottiptv.cc/yy/1356363815
-#EXTINF:-1 group-title="电影频道" tvg-logo="" download-speed="1.8600000143051147", 1905电影网
+#EXTINF:-1 group-title="电影频道" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/1905dy.png" download-speed="1.16", 1905电影网
 http://php.jdshipin.com:8880/1905.php?id=1905dy
